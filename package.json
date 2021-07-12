@@ -1,0 +1,69 @@
+{
+	"name": "theme-karyfoundation-themes",
+	"displayName": "Kary Pro Colors",
+	"description": "The famous, carefully harmonized themes loved by thousands.",
+	"version": "20.0.3",
+	"publisher": "karyfoundation",
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#f7f7f7",
+		"theme": "light"
+	},
+	"repository": {
+		"type": "git",
+		"url": "http://codes.kary.us/procolors/definitions"
+	},
+	"homepage": "https://kary.us",
+	"engines": {
+		"vscode": "^1.7.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Kary Pro Colors － Light",
+				"uiTheme": "vs",
+				"path": "./themes/kary-light.json"
+			},
+			{
+				"label": "Kary Pro Colors － Eye Light",
+				"uiTheme": "vs",
+				"path": "./themes/kary-eye-light.json"
+			},
+			{
+				"label": "Kary Pro Colors － Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/kary-dark.json"
+			},
+			{
+				"label": "Kary Pro Colors － Minimal Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/kary-minimal-dark.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "kary-standard-icons",
+				"label": "Kary Pro Colors － Classic",
+				"path": "./icons/icons-standard.json"
+			},
+			{
+				"id": "kary-notebook-icons",
+				"label": "Kary Pro Colors － Notebook",
+				"path": "./icons/icons-notebook.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "a150991b-031b-457a-b823-ef4c45425a1b",
+		"publisherId": "00c37c0d-e370-4cc2-8ab3-3fa32a26514a",
+		"publisherDisplayName": "Pouya Kary"
+	},
+	"scripts": {
+		"pack": "vsce package --baseContentUrl=\"http://codes.kary.us/procolors/vscode\"",
+		"publish": "vsce publish --baseContentUrl=\"http://codes.kary.us/procolors/vscode\"",
+		"release": "git push kary master; npm run pack; npm run publish"
+	}
+}

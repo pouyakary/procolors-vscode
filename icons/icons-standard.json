@@ -1,0 +1,26 @@
+{
+    "fonts": [
+        {
+            "id": "kary-standard-icons",
+            "src": [
+                {
+                    "path": "./icons.woff",
+                    "format": "woff"
+                }
+            ],
+            "weight": "normal",
+            "style": "normal",
+            "size": "120%"
+        }
+    ],
+    "iconDefinitions": {
+        "_file": {
+            "fontCharacter": "\\f102"
+        },
+        "_folder": {
+            "fontCharacter": "\\f104"
+        }
+    },
+    "file": "_file",
+    "folder": "_folder"
+}
