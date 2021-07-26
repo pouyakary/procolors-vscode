@@ -389,7 +389,7 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>HTML Entites</string>
+            <string>HTML Entities</string>
             <key>scope</key>
             <string>character.constant.entity.html</string>
             <key>settings</key>
@@ -873,7 +873,7 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Support Operaotrs</string>
+            <string>Support Operators</string>
             <key>scope</key>
             <string>support.function</string>
             <key>settings</key>
@@ -1379,7 +1379,7 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Function Varibles</string>
+            <string>Function Variables</string>
             <key>scope</key>
             <string>meta.function-call.arguments.python</string>
             <key>settings</key>
@@ -1401,7 +1401,7 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Arythmetic Keywords</string>
+            <string>Arithmetic Keywords</string>
             <key>scope</key>
             <string>keyword.operator.arithmetic.python</string>
             <key>settings</key>
@@ -1566,7 +1566,7 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>C Preproccessor Commands</string>
+            <string>C Preprocessor Commands</string>
             <key>scope</key>
             <string>keyword.control.directive.conditional.c</string>
             <key>settings</key>
@@ -1617,6 +1617,127 @@
             <dict>    
                 <key>foreground</key>
                 <string>#3778B7</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Cpp Punctuation</string>
+            <key>scope</key>
+            <string>punctuation.section.block.begin.bracket.curly.function.definition.cpp, punctuation.section.block.end.bracket.curly.function.definition.cpp, punctuation.section.parameters.begin.bracket.round.cpp, punctuation.section.parameters.end.bracket.round.cpp</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#1A1A1A</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Rust Function Definition</string>
+            <key>scope</key>
+            <string>keyword.other.fn.rust</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Rust Namespaces</string>
+            <key>scope</key>
+            <string>entity.name.namespace.rust</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Rust Use</string>
+            <key>scope</key>
+            <string>meta.use.rust, keyword.other.rust</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Rust Use Single</string>
+            <key>scope</key>
+            <string>meta.use.rust</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C94824</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Rust Namespace Operator</string>
+            <key>scope</key>
+            <string>keyword.operator.namespace.rust</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Rust Mut Keyword</string>
+            <key>scope</key>
+            <string>storage.modifier.mut.rust</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Rust Semi</string>
+            <key>scope</key>
+            <string>punctuation.semi.rust</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#1A1A1A</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Rust Barrow Operator</string>
+            <key>scope</key>
+            <string>keyword.operator.borrow.and.rust</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Rust Types</string>
+            <key>scope</key>
+            <string>entity.name.type.numeric.rust, entity.name.type.primitive.rust, type.rust</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Rust Constants</string>
+            <key>scope</key>
+            <string>constant.other.caps.rust, constant.rust</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
             </dict>
         </dict>
         <dict>    
@@ -1863,7 +1984,7 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>PHP Logical Operatiors</string>
+            <string>PHP Logical Operations</string>
             <key>scope</key>
             <string>keyword.operator.logical.php</string>
             <key>settings</key>
@@ -1907,7 +2028,7 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>main fsharp</string>
+            <string>F# main</string>
             <key>scope</key>
             <string>source.fsharp.fsl</string>
             <key>settings</key>
@@ -1918,7 +2039,7 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>F-Shrap Modules</string>
+            <string>F# Modules</string>
             <key>scope</key>
             <string>entity.name.section.fsharp</string>
             <key>settings</key>
@@ -1929,7 +2050,7 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>fsharp bindings</string>
+            <string>F# bindings</string>
             <key>scope</key>
             <string>variable.other.binding.fsharp</string>
             <key>settings</key>
@@ -1940,7 +2061,7 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>binding keywords</string>
+            <string>F# binding keywords</string>
             <key>scope</key>
             <string>keyword.other.binding.fsharp</string>
             <key>settings</key>
@@ -1951,7 +2072,7 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>fsharp numbers</string>
+            <string>F# fsharp numbers</string>
             <key>scope</key>
             <string>constant.numeric.fsharp, constant.numeric.integer.nativeint.fsharp</string>
             <key>settings</key>
@@ -1962,7 +2083,7 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>fshrap other keywords</string>
+            <string>F# other keywords</string>
             <key>scope</key>
             <string>keyword.other.fsharp, constant.language.unit.fsharp</string>
             <key>settings</key>
@@ -2237,7 +2358,7 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Repeat varaibles</string>
+            <string>Repeat variables</string>
             <key>scope</key>
             <string>meta.block.repeat.with.applescript</string>
             <key>settings</key>
@@ -2413,6 +2534,83 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>V Source</string>
+            <key>scope</key>
+            <string>source.v</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3778B7</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>V Function Keyword</string>
+            <key>scope</key>
+            <string>keyword.function.v</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>V Types</string>
+            <key>scope</key>
+            <string>storage.type.bool.v, storage.type.bool.v, storage.type.byteptr.v, storage.type.charptr.v, storage.type.numeric.v, storage.type.rune.v, storage.type.size_t.v, storage.type.string.v, storage.type.voidptr.v</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>V Type Definition Keywords</string>
+            <key>scope</key>
+            <string>storage.type.struct.v, keyword.interface.v</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>V Type Definition</string>
+            <key>scope</key>
+            <string>entity.name.struct.v, entity.name.type.v, entity.name.interface.v</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C94824</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>V Attribute</string>
+            <key>scope</key>
+            <string>storage.modifier.attribute.v</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>V Optional Keyword</string>
+            <key>scope</key>
+            <string>keyword.operator.optional.v</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Alex Embedded Haskell</string>
             <key>scope</key>
             <string>meta.embedded.source.haskell.alex</string>
@@ -2437,7 +2635,7 @@
             <key>name</key>
             <string>Punctuations</string>
             <key>scope</key>
-            <string>bracket.php, keyword.operator.type.annotation.ts, meta.brace, meta.brace.angle.ts, meta.declaration.exports.haskell, meta.declaration.exports.purescript, meta.embedded.expression.jsx, meta.embedded.expression.tsx, meta.namespace.declaration.ts, meta.property-list.scss, punctuation.definition.arguments.begin.python, punctuation.definition.arguments.end.python, punctuation.definition.array.begin.applescript, punctuation.definition.array.end.applescript, punctuation.definition.begin.bracket.curly.go, punctuation.definition.begin.bracket.round.go, punctuation.definition.begin.bracket.square.c, punctuation.definition.binding-pattern.array.js, punctuation.definition.binding-pattern.array.ts, punctuation.definition.binding-pattern.array.tsx, punctuation.definition.binding-pattern.object.tsx, punctuation.definition.block, punctuation.definition.bracket.square.go, punctuation.definition.dict.begin.python, punctuation.definition.dict.end.python, punctuation.definition.end.bracket.curly.go, punctuation.definition.end.bracket.round.go, punctuation.definition.end.bracket.square.c, punctuation.definition.entity.begin.bracket.square.css, punctuation.definition.entity.end.bracket.square.css, punctuation.definition.imports.begin.bracket.round.go, punctuation.definition.imports.end.bracket.round.go, punctuation.definition.list.begin.python, punctuation.definition.list.end.python, punctuation.definition.parameters, punctuation.definition.section.case-statement.tsx, punctuation.definition.typeparameters.begin.tsx, punctuation.definition.typeparameters.end.tsx, punctuation.fish, punctuation.go, punctuation.haskell, punctuation.other.colon.go, punctuation.other.comma.go, punctuation.other.period.go, punctuation.parenthesis.begin.python, punctuation.parenthesis.begin.python, punctuation.parenthesis.end.python, punctuation.section.arguments.begin.bracket.round.c, punctuation.section.arguments.end.bracket.round.c, punctuation.section.block.begin.bracket.curly.c, punctuation.section.block.begin.bracket.curly.cpp, punctuation.section.block.end.bracket.curly.c, punctuation.section.block.end.bracket.curly.cpp, punctuation.section.function.begin.bracket.round.css, punctuation.section.function.begin.python, punctuation.section.function.end.bracket.round.css, punctuation.section.group.applescript, punctuation.section.parameters.begin.bracket.round.c, punctuation.section.parameters.end.bracket.round.c, punctuation.section.parens.begin.bracket.round.c, punctuation.section.parens.end.bracket.round.c, punctuation.separator.arguments.python, punctuation.separator.colon.python, punctuation.separator.comma, punctuation.separator.delimiter.c, punctuation.separator.dict.python, punctuation.separator.dot-access.c, punctuation.separator.element.python, punctuation.separator.list.comma.css, punctuation.separator.parameter.tsx, punctuation.terminator.go, punctuation.terminator.statement, punctuation.terminator.statement.c</string>
+            <string>bracket.php, keyword.operator.type.annotation.ts, meta.brace, meta.brace.angle.ts, meta.declaration.exports.haskell, meta.declaration.exports.purescript, meta.embedded.expression.jsx, meta.embedded.expression.tsx, meta.namespace.declaration.ts, meta.property-list.scss, punctuation.definition.arguments.begin.python, punctuation.definition.arguments.end.python, punctuation.definition.array.begin.applescript, punctuation.definition.array.end.applescript, punctuation.definition.begin.bracket.curly.go, punctuation.definition.begin.bracket.round.go, punctuation.definition.begin.bracket.square.c, punctuation.definition.binding-pattern.array.js, punctuation.definition.binding-pattern.array.ts, punctuation.definition.binding-pattern.array.tsx, punctuation.definition.binding-pattern.object.tsx, punctuation.definition.block, punctuation.definition.bracket.square.go, punctuation.definition.dict.begin.python, punctuation.definition.dict.end.python, punctuation.definition.end.bracket.curly.go, punctuation.definition.end.bracket.round.go, punctuation.definition.end.bracket.square.c, punctuation.definition.entity.begin.bracket.square.css, punctuation.definition.entity.end.bracket.square.css, punctuation.definition.imports.begin.bracket.round.go, punctuation.definition.imports.end.bracket.round.go, punctuation.definition.list.begin.python, punctuation.definition.list.end.python, punctuation.definition.parameters, punctuation.definition.section.case-statement.tsx, punctuation.definition.typeparameters.begin.tsx, punctuation.definition.typeparameters.end.tsx, punctuation.fish, punctuation.go, punctuation.haskell, punctuation.other.colon.go, punctuation.other.comma.go, punctuation.other.period.go, punctuation.parenthesis.begin.python, punctuation.parenthesis.begin.python, punctuation.parenthesis.end.python, punctuation.section.arguments.begin.bracket.round.c, punctuation.section.arguments.end.bracket.round.c, punctuation.section.block.begin.bracket.curly.c, punctuation.section.block.begin.bracket.curly.cpp, punctuation.section.block.end.bracket.curly.c, punctuation.section.block.end.bracket.curly.cpp, punctuation.section.function.begin.bracket.round.css, punctuation.section.function.begin.python, punctuation.section.function.end.bracket.round.css, punctuation.section.group.applescript, punctuation.section.parameters.begin.bracket.round.c, punctuation.section.parameters.end.bracket.round.c, punctuation.section.parens.begin.bracket.round.c, punctuation.section.parens.end.bracket.round.c, punctuation.separator.arguments.python, punctuation.separator.colon.python, punctuation.separator.comma, punctuation.separator.delimiter.c, punctuation.separator.dict.python, punctuation.separator.dot-access.c, punctuation.separator.element.python, punctuation.separator.list.comma.css, punctuation.separator.parameter.tsx, punctuation.terminator.go, punctuation.terminator.statement, punctuation.terminator.statement.c, punctuation.semi.rust, punctuation.brackets.curly.rust, punctuation.comma.rust, punctuation.definition.bracket.round.begin.v, punctuation.definition.bracket.round.end.v, punctuation.definition.bracket.curly.begin.v, punctuation.definition.bracket.curly.end.v, punctuation.definition.bracket.square.begin.v, punctuation.definition.bracket.square.end.v, punctuation.definition.begin.bracket.square.v, punctuation.definition.end.bracket.square.v, punctuation.accessor.v</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
