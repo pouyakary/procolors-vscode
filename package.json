@@ -1,8 +1,8 @@
 {
 	"name": "theme-karyfoundation-themes",
 	"displayName": "Kary Pro Colors",
-	"description": "The famous, carefully harmonized themes loved by thousands.",
-	"version": "25.0.0",
+	"description": "A suite of carefully harmonized themes with a professional feel",
+	"version": "25.0.1",
 	"publisher": "karyfoundation",
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -11,7 +11,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "http://codes.kary.us/procolors/definitions"
+		"url": "https://github.com/pouyakary/procolors"
 	},
 	"homepage": "https://kary.us",
 	"engines": {
@@ -60,10 +60,5 @@
 		"id": "a150991b-031b-457a-b823-ef4c45425a1b",
 		"publisherId": "00c37c0d-e370-4cc2-8ab3-3fa32a26514a",
 		"publisherDisplayName": "Pouya Kary"
-	},
-	"scripts": {
-		"pack": "vsce package --baseContentUrl=\"http://codes.kary.us/procolors/vscode\"",
-		"publish": "vsce publish --baseContentUrl=\"http://codes.kary.us/procolors/vscode\"",
-		"release": "git push kary master; npm run pack; npm run publish"
 	}
 }
