@@ -1,6 +1,9 @@
 
 ## What's new?
 
+### 25.0.2
+- **New!** &mdash; Added support for [editor.bracketPairColorization](https://github.com/pouyakary/ProColors/issues/34).
+
 ### 25.0.0
 This version includes so much and brings a huge overhaul to the theme.
 But the most significant ones are:
