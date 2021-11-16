@@ -128,6 +128,8 @@
         "statusBar.multiFolderBackground":                      "#7DA76F",
         "statusBar.noFolderBackground":                         "#4E2C7A",
         "statusBar.noFolderForeground":                         "#DF96FF",
+        "statusBarItem.remoteBackground":                       "#424242",
+        "statusBarItem.remoteForeground":                       "#EEEEEE",
         "tab.activeBackground":                                 "#01250021",
         "tab.activeBorder":                                     "#7DA76F",
         "tab.activeForeground":                                 "#7DA76F",

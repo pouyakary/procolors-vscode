@@ -139,6 +139,8 @@
         "statusBar.foreground":                                 "#C7E2B7",
         "statusBar.noFolderBackground":                         "#B052A1",
         "statusBar.noFolderForeground":                         "#FFFFFF",
+        "statusBarItem.remoteBackground":                       "#000000",
+        "statusBarItem.remoteForeground":                       "#FFFFFF",
         "tab.activeBackground":                                 "#F1F1F1",
         "tab.activeBorder":                                     "#C94824",
         "tab.activeForeground":                                 "#A56416",

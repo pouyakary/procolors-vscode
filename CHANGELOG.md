@@ -1,6 +1,9 @@
 
 ## What's new?
 
+### 25.1.0
+- **New!** &mdash; Remote Workspaces in the Statusbar now have their own colors.
+
 ### 25.0.2
 - **New!** &mdash; Added support for [editor.bracketPairColorization](https://github.com/pouyakary/ProColors/issues/34).
 
