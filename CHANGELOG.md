@@ -2,6 +2,7 @@
 ## What's new?
 
 ### 25.1.0
+- **New!** &mdash; List filter colors are added.
 - **New!** &mdash; Remote Workspaces in the Statusbar now have their own colors.
 - **Fix!** &mdash; Highlight colors on the list are now more visible.
 
