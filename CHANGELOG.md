@@ -1,6 +1,17 @@
 
 ## What's new?
 
+### 25.2.0
+- **New!** &mdash; Much better colors for the context menus.
+- **New!** &mdash; Remote statusbar colors added.
+- **New!** &mdash; Added support fer Crystal.
+- **Improvement!** &mdash; Really better colors for the auto complete widget.
+- **Improvement!** &mdash; Better support fer C++.
+- **Improvement!** &mdash; Better support fer Makefile.
+- **Improvement!** &mdash; Better support fer Rust.
+- **Improvement!** &mdash; Much better colors for the filter widget.
+- **Fix!** &mdash; Fixed colors on selections on the light theme.
+
 ### 25.1.0
 - **New!** &mdash; List filter colors are added.
 - **New!** &mdash; Remote Workspaces in the Statusbar now have their own colors.
