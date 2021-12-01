@@ -1841,7 +1841,7 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Optional Types</string>
+            <string>Rust Optional Types</string>
             <key>scope</key>
             <string>entity.name.type.option.rust</string>
             <key>settings</key>
@@ -1852,7 +1852,7 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Result Type</string>
+            <string>Rust Result Type</string>
             <key>scope</key>
             <string>entity.name.type.result.rust</string>
             <key>settings</key>
@@ -1870,6 +1870,28 @@
             <dict>    
                 <key>foreground</key>
                 <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Rust Trait</string>
+            <key>scope</key>
+            <string>entity.name.type.trait.rust</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Rust Access Keyword</string>
+            <key>scope</key>
+            <string>keyword.operator.access.dot.rust</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#CCCCCC</string>
             </dict>
         </dict>
         <dict>    
