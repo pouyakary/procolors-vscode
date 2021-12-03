@@ -1896,6 +1896,17 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Rust Angle Brackets</string>
+            <key>scope</key>
+            <string>punctuation.brackets.angle.rust</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>C# Using</string>
             <key>scope</key>
             <string>keyword.other.using.cs</string>
