@@ -1907,6 +1907,28 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Rust Options</string>
+            <key>scope</key>
+            <string>entity.name.type.option.rust</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Rust Crate Keyword</string>
+            <key>scope</key>
+            <string>keyword.other.crate.rust</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>C# Using</string>
             <key>scope</key>
             <string>keyword.other.using.cs</string>
