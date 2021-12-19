@@ -97,6 +97,8 @@
         "menu.foreground":                                         "#CCCCCC",
         "menu.selectionBackground":                                "#522500",
         "menu.selectionForeground":                                "#FFD8B9",
+        "menubar.selectionBackground":                             "#522500",
+        "menubar.selectionForeground":                             "#FFD8B9",
         "notification.background":                                 "#000000",
         "panel.background":                                        "#F1F1F1",
         "panel.border":                                            "#E5E5E5",
