@@ -18,6 +18,7 @@
         "button.background":                                       "#3778B7",
         "button.foreground":                                       "#E2EEFF",
         "contrastBorder":                                          "#E5E5E5",
+        "diffEditor.diagonalFill":                                 "#DDDDDD",
         "diffEditor.insertedTextBackground":                       "#d1eaff40",
         "diffEditor.removedTextBackground":                        "#fdc0c040",
         "dropdown.background":                                     "#E2EEFF",

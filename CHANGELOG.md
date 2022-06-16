@@ -1,5 +1,11 @@
 # What is Changed
 
+## 26.1.0
+
+- **Improvement!** &mdash; Really nice new selection colors.
+- **New!** &mdash; Diff editor diagonal color background added.
+- **New!** &mdash; Diff editor on dark now has much much better colors, and these colors are transparent so you no longer get confused on them and the selection color is much better on those.
+
 ## 26.0.2
 
 - **Improvement!** &mdash; Finally improved and found the right sidebar colors...
