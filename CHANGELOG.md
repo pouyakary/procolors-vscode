@@ -1,5 +1,7 @@
 # What is Changed
 
+- **Improvement!** &mdash; Much more beautiful suggestion colors.
+
 ## 26.1.0
 
 - **Improvement!** &mdash; Really nice new selection colors.
