@@ -1,5 +1,8 @@
 # What is Changed
 
+## 26.0.2
+
+- **Improvement!** &mdash; Finally improved and found the right sidebar colors...
 
 ## 26.0.0
 
