@@ -1,7 +1,38 @@
+# What is Changed
 
-## What's new?
 
-### 25.2.0
+## 26.0.0
+
+>  **🚨 BREAKING CHANGE 🚨** <br>
+> From this version the two secondary versions
+> are no longer available: _**Eye Light**_
+> & _**Minimal Dark**_.
+>
+> I recognize that there are who that love those
+> variations. But maintaining these many similar
+> packages are too hard to maintain and for example
+> the Eye Light variation can be simply accomplished
+> by changed the background color within the settings
+> (what was not possible when these variations were
+> included)
+
+- **New!** &mdash; Input validations added and fixed.
+- **New!** &mdash; Notification colors added.
+- **New!** &mdash; Sidebar colors added.
+- **New!** &mdash; Really good CoffeeScript support added.
+- **New!** &mdash; Really good SQL support added.
+- **New!** &mdash; Added so much to Go Language: Types, Interpolation, Keywords.
+- **New!** &mdash; JavaScript Private keys added.
+- **New!** &mdash; Terminal selection colors added.
+- **New!** &mdash; JavaScript and TypeScript mapped data coloring improvements.
+- **Improvement!** &mdash; Namespace declarations fixed.
+- **Improvement!** &mdash; Many improvements on JavaScript and TypeScript type declarations and colorings.
+- **Improvement!** &mdash; Find match colors improved.
+- **Improvement!** &mdash; Editor widget border improved.
+
+---
+
+## 25.2.0
 - **New!** &mdash; Much better colors for the context menus.
 - **New!** &mdash; Remote statusbar colors added.
 - **New!** &mdash; Added support fer Crystal.
@@ -12,15 +43,21 @@
 - **Improvement!** &mdash; Much better colors for the filter widget.
 - **Fix!** &mdash; Fixed colors on selections on the light theme.
 
-### 25.1.0
+---
+
+## 25.1.0
 - **New!** &mdash; List filter colors are added.
 - **New!** &mdash; Remote Workspaces in the Statusbar now have their own colors.
 - **Fix!** &mdash; Highlight colors on the list are now more visible.
 
-### 25.0.2
+---
+
+## 25.0.2
 - **New!** &mdash; Added support for [editor.bracketPairColorization](https://github.com/pouyakary/ProColors/issues/34).
 
-### 25.0.0
+---
+
+## 25.0.0
 This version includes so much and brings a huge overhaul to the theme.
 But the most significant ones are:
 
@@ -35,8 +72,9 @@ But the most significant ones are:
 - **New!** &mdash; First class support for GNU Make!
 - **New!** &mdash; First class support for IDF!
 
+---
 
-### 20.0.0
+## 20.0.0
 - **New!** &mdash; Really good RegExp highlighting!
 - **New!** &mdash; Haskell language support.
 - **New!** &mdash; Ohm language support.
@@ -50,7 +88,9 @@ But the most significant ones are:
 - **Change!** &mdash; Status Bar Color on the Light Themes are is now more fancy.
 - **New!** &mdash; Indentation Line Coloring.
 
-### 18.2.0
+---
+
+## 18.2.0
 - **New!** &mdash; Breadcrump color support added.
 - **New!** &mdash; Active line color support added.
 - **New!** &mdash; A new icon :D.
@@ -58,7 +98,9 @@ But the most significant ones are:
 - **New!** &mdash; CSS Keyframe rules are now colored.
 - **New!** &mdash; Sidebar Git Diff properties are now supported.
 
-### 18.0.0
+---
+
+## 18.0.0
 - **Change!** &mdash; What is better than a great new name? After the transition of the themes they were renamed and well let's agree that the name wasn't good right? It's now calld "Pro Colors" do you like it?
 - **New!** &mdash; Fish Shell language is now fully supported and I'm going to offer a new extension with even more token customizations
 - **New!** &mdash; GLSL Language is now fully supported!
@@ -68,12 +110,16 @@ But the most significant ones are:
 - **Change!** &mdash; A much improved Terminal look.
 - **Change!** &mdash; Dropdown menus are much more styled now.
 
-### 17.0.0
+---
+
+## 17.0.0
 - **New!** &mdash; The hell just got frozen as Pro Colors now offer icons! With this release you'll be able to pick one of the two icon themes fully hormonized and carefully aligned for this theme. They work great on both Light and Dark themes.
 - **New!** &mdash; Go Lang is now officially onboard of the first class supported languages!
 - **New!** &mdash; Hell got even more frozen because we now also support C++ first class! Many many goodies for C++ are included.
 
-### 16.0.0
+---
+
+## 16.0.0
 - **New!** &mdash; Much Better Active Tab Colors both in Dark & Light Themes with background color and border colors
 - **New!** &mdash; Matching brace colors added
 - **New!** &mdash; Added custom colors for editor ruler
@@ -91,7 +137,9 @@ But the most significant ones are:
 - **Fix!** &mdash; Improved Panel colors
 - **Fix!** &mdash; Improved status bar colors
 
-### 15.1.0
+---
+
+## 15.1.0
 - **New!** &mdash; This version has a new light theme called "Eye Light" which is basically the same as original Kary Light with a darker background for when you feel the light theme is tooo light!
 - **Change!** &mdash; Much better panel view coloring.
 - **Change!** &mdash; Much much better CSS variable coloring.
@@ -101,7 +149,9 @@ But the most significant ones are:
 - **New!** &mdash; Better XML tag support.
 - **Fix!** &mdash; CSS punctuation are much better now.
 
-### 15.0.0
+---
+
+## 15.0.0
 - **BIG CHANGES** &mdash; Dark theme now contains many many many more workbench customizations. (we're getting near full workbench theme.). __NOTE__: It actually takes quite a bit to choose colors and decide what is a better design so we're sorry if it's a slow process.
 - **New!** &mdash; Picker view is now fully themed to be pretty in your eyes!
 - **New!** &mdash; Great PHP support! (We know! we know! we promised to bring good PHP support to the theme but unfortunately the support was not good enough. Well within this release you'll see many many improvements.)
@@ -112,46 +162,66 @@ But the most significant ones are:
 - **New!** &mdash; CSS `@media` properties are now very better looking.
 - **Fix!** &mdash; Braces as always! Yes braces sometimes go green in the theme and we have tracked down some new problems with braces and they are all fixed now. Hopping you report the others we couldn't find...
 
-### 14.1.0
+---
+
+## 14.1.0
 - **Fix!** &mdash; We forgot to have a right peek view in the dark theme which we are very sorry for. That must have made all of you guys very upset. In hope that you'll forgive us there is now a very cool peek view in the dark themes and we hope you like it!
 - **New!** &mdash; We'll be supporting haXe language from this version up.
 
-### 14.0.0
+---
+
+## 14.0.0
 - **New!** &mdash; This version includes a new theme called __Minimal Dark__ which features the same preferences as the dark theme but only it has no __orange__ / __red__ on the dark! It's really an interesting new look for the dark.
 - **Fix!** &mdash; Headers in Markdown had a strange bug that they rendered red color of the light theme in the dark theme. It's now fixed.
 
-### 13.0.0
+---
+
+## 13.0.0
 - **New!** &mdash; Dark Theme now supports full workbench theme!!!
 - **New!** &mdash; Light Theme now supports full workbench theme!!!
 - **Fix!** &mdash; An [issue](https://github.com/pmkary/ProColors/issues/14) about PHP HTML background coloring was fixed &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
 
-### 12.1.1
+---
+
+## 12.1.1
 - **Fix!** &mdash; An [issue](https://github.com/pmkary/ProColors/issues/13) with rendering braces of JavaScript embedded in PHP `<script>` tag &mdash; reported by [@m-thorsen](https://github.com/m-thorsen)
 
-### 12.1.0
+---
+
+## 12.1.0
 - **Change!** &mdash; New simpler name!
 - **Fix!** &mdash; We had [a report on PHP support](https://github.com/pmkary/ProColors/issues/11) (thanks to [m-thorsen](https://github.com/m-thorsen)) and dear [@coastermcgee](https://github.com/coastermcgee) fixed it.
 
-### 12.0.0
+---
+
+## 12.0.0
 - **New!** &mdash; PHP Language is now officially supported. (Requested by [Dave Redfern](https://github.com/daveredfern) on [\#7](https://github.com/pmkary/karyfoundation.themeX/issues/7))
 - **New!** &mdash; SASS Language is now officially supported (Requested by [@coastermcgee](https://github.com/coastermcgee) on [\#8](https://github.com/pmkary/karyfoundation.themeX/issues/8))
 - **Fix!** &mdash; The bug with some braces rendering in red is now fully fixed
 
-### 11.1.0
+---
+
+## 11.1.0
 - **New!** &mdash; Now supporting Nearley.js Language
 - **Change!** &mdash; Better JS support, having constants and template strings in better shape.
 - **Change!** &mdash; Better PEG.js support
 
-### 11.0.0
+---
+
+## 11.0.0
 - **Hot Fix!** &mdash; As in Visual Studio Code version **1.9.0**, KF Themes got broken because of the new highlighting system and the new grammar definitions. After a [quick bug report and some talks an the topics](https://github.com/Microsoft/vscode/issues/19734) we we wrote the __Whole JavaScript and TypeScript__ definitions from scratch and pushed this hot fix so that you can enjoy the same theme you had. We are very sorry for this break in the theme and hope you still like this theme.
 - **New!** &mdash; A completely new Markdown experience based on the look of the pageman language is brought to you in this version.
 
-### 10.3.0
+---
+
+## 10.3.0
 - **New!** &mdash; JSX just got awesome in TypeScript React (TSX files). Supporting 20 new custom tokens.
 - **Fix!** &mdash; Arrow Functions got much better in the recent version.
 - **New!** &mdash; PEG.js Language tokens are added.
 
-### 10.2.0
+---
+
+## 10.2.0
 - **New!** &mdash; Great awesome support for JSX in JS and TSX files.
 - **Change!** &mdash; CSS Property Values are improved.
 - **New!** &mdash; HTML Entities are added.
@@ -161,7 +231,9 @@ But the most significant ones are:
 - **New!** &mdash; More hormonic class keyword colors for JS/TS.
 - **Change!** &mdash; Better color for `*` in JS/TS imports.
 
-### 10.1.0
+---
+
+## 10.1.0
 - **New!** &mdash; HTML Entities added.
 - **Change!** &mdash; CSS function colors are changed.
 - **New!** &mdash; CSS constant property values are added.
@@ -179,11 +251,15 @@ But the most significant ones are:
 - **Change!** &mdash; Light Colors are fixed.
 - **New!** &mdash; Pretty new icon for the theme! :D.
 
-### 10.0.0
+---
+
+## 10.0.0
 - **MASSIVE CHANGE** &mdash; The direction of this theme is changing. The new plan is to have full colored themes without the foreground colors on programming languages as much as possible. For some like Ruby this is impossible but for now we have a full support toward this change on TypeScript and JavaScript and we will work to bring that into other languages as well. Many of the things you knew has been changed due to this and we now have a much more harmonized theme that you will love.
 - **Change** &mdash; The colors in the light theme has been polished a lot and you'll heave super much better experience using them.
 
-### 8.0.0
+---
+
+## 8.0.0
 - **Change!** &mdash; Dark colors are improved for good.
 - **New!** &mdash; CSS / Less are now fully supported. We had great support but with the new definitions they didn't worked. This new version includes the new defs to provide the bust support.
 - **Change** &mdash; TypeScript / JavaScript now have a much better color for the function arguments and types.
@@ -191,53 +267,77 @@ But the most significant ones are:
 - **Fix!** &mdash; Type colors had so many issues, they are fixed for good.
 - **New!** &mdash; We now have full support fur Pageman (The whole definition is included).
 
-### 7.6.0
+---
+
+## 7.6.0
 - **New!** &mdash; We now have custom support for JSON (true coloring enabled!)
 - **New!** &mdash; You think more high level than JSON? We also have the same support for YAML now...
 
-### 7.5.0
+---
+
+## 7.5.0
 - **Fix!** &mdash; Types and type casts in TypeScript and JavaScript are fixed.
 - **Fix!** &mdash; Namespace color is fixed.
 - **Fix!** &mdash; Coloring of function parameter types are fixed
 - **Upcoming!** &mdash; As you know with the new grammar of Visual Studio Code 1.7 we now have functions in everywhere colored as red. This is due to a limitation of the grammar. We have [opend a pull request](https://github.com/Microsoft/TypeScript-TmLanguage/pull/362) to address the problem and provide a solution. We're hoping to have it fixed in the next versions of visual studio code if possible.
 
-### 7.2.0
+---
+
+## 7.2.0
 - **Change!** &mdash; Strings are now blue again. Also string interpolation is added.
 - **Change!** &mdash; Function export types are orange.
 - **Change!** &mdash; Comparison and Relational operators are orange now.
 - **Change!** &mdash; Special Keywords are being taken care of.
 - **Upcoming** &mdash; Special Ruby Token will be added soon.
 
-### 7.0.0
+---
+
+## 7.0.0
 - **Change!** &mdash; This version of the theme is designed for the new version of definitions and highlighter of the vscode that is coming in the v1.7.0. The themes are now compatible with the Babel Definitions and the new JavaScript / TypeScript definitions coming with viscose.
 - **New!** &mdash; Object keys now have a color! So you can distinguish stuff more easy right now...
 
-#### 5.2.0
+---
+
+### 5.2.0
 - **Change!** &mdash; Strings are green these days...
 - **Change!** &mdash; The dark theme's background is lighted a bit to match the dark background of the vscode. This way it has more eye comfort.
 - **Issue #1** &mdash; Thanks to dear [Murriouz](https://github.com/Murriouz) a bug was reported about invalid code's rendering and it's not fixed.
 - **Upcoming** &mdash; For the next release we'll be having Babel syntax support.
 
-#### 5.0.0
+---
+
+### 5.0.0
 - **Change!** &mdash; The theme is now ported to [themeX](https://github.com/pmkary/themeX). As the themeX project itself is just started it may take weeks till we develop adaptors for other editors but once we reach there, using one code base we will compile the theme for all the other editors at ever single update. So soon we'll have support for other main big editors. Thanks for being with us till now.
 - **Change!** &mdash; Operators are now blue!
 
-#### 4.0.2
+---
+
+### 4.0.2
 - **Change!** &mdash; No line highlight for dark theme.
 - **New!** &mdash; Versions are now synced across all versions.
 
-#### 1.5.2
+---
+
+### 1.5.2
 - **New!** &mdash; Operator Keywords now render just like normal text. (better right?).
 
-#### 1.5.1
+---
+
+### 1.5.1
 - **Fix!** &mdash; As [it turns out](https://github.com/Microsoft/vscode/issues/9629) Mac uses a _Gamma 1.8 RGB_ but the standard for tmThemes are sRGB. Thanks to the great tool ["tmTheme Color Convertor"](https://github.com/jibsen/tmcolorconv) the theme has being fixed and the colors no longer looks dark!
 
-#### 1.4.5
+---
+
+### 1.4.5
 - **New!** &mdash; TypeScript's _Type Cast Expression_ now has custom coloring.
 
-#### 1.4.4
+---
+
+### 1.4.4
 - **New!** &mdash; Custom string color for HTML added.
 - **Fix!** &mdash; Markdown Heading color changed to be more hormonic.
 
-#### 1.4.3
+---
+
+### 1.4.3
 - **New!** &mdash; Custom color for TypeScript class storage modifiers (`public`, `private`, ...)

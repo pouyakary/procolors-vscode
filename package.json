@@ -28,19 +28,9 @@
 				"path": "./themes/kary-light.json"
 			},
 			{
-				"label": "Kary Pro Colors － Eye Light",
-				"uiTheme": "vs",
-				"path": "./themes/kary-eye-light.json"
-			},
-			{
 				"label": "Kary Pro Colors － Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/kary-dark.json"
-			},
-			{
-				"label": "Kary Pro Colors － Minimal Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/kary-minimal-dark.json"
 			}
 		],
 		"iconThemes": [
