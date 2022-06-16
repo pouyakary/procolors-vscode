@@ -1,5 +1,8 @@
 # What is Changed
 
+## 26.2.0
+
+- **Hot Fix!** &mdash; Broken Dark Selection Color fixed.
 - **Improvement!** &mdash; Much more beautiful suggestion colors.
 
 ## 26.1.0
