@@ -25,6 +25,7 @@
 - **New!** &mdash; JavaScript Private keys added.
 - **New!** &mdash; Terminal selection colors added.
 - **New!** &mdash; JavaScript and TypeScript mapped data coloring improvements.
+- **Improvement!** &mdash; Scrollbar colors got back to what was the brand icon of Pro Colors. The yellow ones...
 - **Improvement!** &mdash; Namespace declarations fixed.
 - **Improvement!** &mdash; Many improvements on JavaScript and TypeScript type declarations and colorings.
 - **Improvement!** &mdash; Find match colors improved.
