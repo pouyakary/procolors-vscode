@@ -3249,9 +3249,42 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>PureScript Import</string>
+            <key>scope</key>
+            <string>meta.import.purescript</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#D38569</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>PureScript Modules</string>
             <key>scope</key>
             <string>support.other.module.purescript</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>PureScript Types</string>
+            <key>scope</key>
+            <string>entity.name.type.purescript</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#7DA76F</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>PureScript Arrow</string>
+            <key>scope</key>
+            <string>keyword.other.arrow.purescript</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
