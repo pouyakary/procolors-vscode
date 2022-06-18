@@ -1,5 +1,11 @@
 # What is Changed
 
+## 26.2.1
+
+- **Hot Fix!** &mdash; Broken find color fixed
+- **Hot Fix!** &mdash; Broken terminal selection color fixed
+- **Improvement!** &mdash; PureScript improvements.
+
 ## 26.2.0
 
 - **Hot Fix!** &mdash; Broken Dark Selection Color fixed.
