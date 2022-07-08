@@ -1,5 +1,12 @@
 # What is Changed
 
+## 27.0.0
+- **New!** &mdash; Colors for the command center added.
+- **New!** &mdash; Language support for Peggy parser added.
+- **Improvement!** &mdash; New and more live light button colors.
+- **Improvement!** &mdash; Red Arithmetic operators.
+- **Improvement!** &mdash; Better enum colors for TypeScript.
+
 ## 26.2.1
 
 - **Hot Fix!** &mdash; Broken find color fixed
