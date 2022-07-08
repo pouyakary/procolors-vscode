@@ -895,6 +895,17 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Arithmetic Operators</string>
+            <key>scope</key>
+            <string>keyword.operator.arithmetic.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#D38569</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Support Operators</string>
             <key>scope</key>
             <string>support.function</string>
@@ -1544,6 +1555,28 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Enum Keyword</string>
+            <key>scope</key>
+            <string>storage.type.enum.ts</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Enum Type</string>
+            <key>scope</key>
+            <string>entity.name.type.enum</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#7DA76F</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Function Keyword</string>
             <key>scope</key>
             <string>keyword.function.go</string>
@@ -1572,7 +1605,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#BC9550</string>
+                <string>#D38569</string>
             </dict>
         </dict>
         <dict>    
@@ -2453,6 +2486,39 @@
             <dict>    
                 <key>foreground</key>
                 <string>#7DA76F</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>PEG Declarations</string>
+            <key>scope</key>
+            <string>declaration.keyword.pegjs</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#819DC2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Peggy Declaration</string>
+            <key>scope</key>
+            <string>declaration.keyword.peggy</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#819DC2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Peggy Attribute Name</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.attribute.peggy</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#819DC2</string>
             </dict>
         </dict>
         <dict>    
