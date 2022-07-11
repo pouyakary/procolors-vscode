@@ -1,7 +1,11 @@
 # What is Changed
 
 ## 27.1.0
+- **New!** &mdash; Extension star colors.
 - **Improvement!** &mdash; New badge backgrounds.
+- **Improvement!** &mdash; New and improved input colors.
+- **Improvement!** &mdash; New and improved widget windows.
+- **Improvement!** &mdash; Improved focus border.
 
 ## 27.0.0
 - **New!** &mdash; Colors for the command center added.
