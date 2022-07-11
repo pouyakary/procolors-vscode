@@ -1,5 +1,8 @@
 # What is Changed
 
+## 27.1.0
+- **Improvement!** &mdash; New badge backgrounds.
+
 ## 27.0.0
 - **New!** &mdash; Colors for the command center added.
 - **New!** &mdash; Language support for Peggy parser added.
