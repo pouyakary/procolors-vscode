@@ -1,6 +1,7 @@
 # What is Changed
 
 ## 27.2.0
+- **Improvement!** &mdash; First class support for the Python language. (Improved: Regular Expressions, Classes, Types, Punctuations, Operators, and so much more.)
 - **Improvement!** &mdash; Markdown quotes are better now.
 
 ## 27.1.0
