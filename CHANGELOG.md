@@ -1,5 +1,8 @@
 # What is Changed
 
+## 27.2.0
+- **Improvement!** &mdash; Markdown quotes are better now.
+
 ## 27.1.0
 - **New!** &mdash; Extension star colors.
 - **Improvement!** &mdash; New badge backgrounds.
