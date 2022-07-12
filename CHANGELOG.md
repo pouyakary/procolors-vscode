@@ -1,5 +1,9 @@
 # What is Changed
 
+## 27.2.3
+- **Improvement!** &mdash; Border for the Light suggestions.
+- **Improvement!** &mdash; Symbol color for the suggestions menu.
+
 ## 27.2.0
 - **Improvement!** &mdash; First class support for the Python language. (Improved: Regular Expressions, Classes, Types, Punctuations, Operators, and so much more.)
 - **Improvement!** &mdash; Markdown quotes are better now.
