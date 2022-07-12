@@ -2,8 +2,7 @@
     "name":            "Kary Pro Colors - Light",
     "tokenColors":     "../tmThemes/karyprocolors-light.tmTheme",
     "colors": {
-        "ACTIVITYBAR.ACTIVEBACKGROUND":                            "#E2EEFA",
-        "TEXTBLOCKQUOTE.BORDER":                                   "#73921E",
+        "activityBar.activeBackground":                            "#E2EEFA",
         "activityBar.activeBorder":                                "#3778B7",
         "activityBar.background":                                  "#F1F1F1",
         "activityBar.border":                                      "#E5E5E5",
@@ -223,6 +222,7 @@
         "terminalCursor.background":                               "#FFFFFF",
         "terminalCursor.foreground":                               "#3CBAEF",
         "textBlockQuote.background":                               "#EEEEEE",
+        "textBlockQuote.border":                                   "#73921E",
         "textLink.activeForeground":                               "#B052A1",
         "textLink.foreground":                                     "#3778B7",
         "textPreformat.foreground":                                "#A56416",
