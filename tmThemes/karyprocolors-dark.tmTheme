@@ -400,6 +400,61 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>HTML Derivatives</string>
+            <key>scope</key>
+            <string>text.html.derivative</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Nunjucks Brackets</string>
+            <key>scope</key>
+            <string>entity.tag.tagbraces.nunjucks</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Numjucks Filter Pipe</string>
+            <key>scope</key>
+            <string>string.unquoted.filter-pipe.nunjucks</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#D38569</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Numjucks</string>
+            <key>scope</key>
+            <string>string.unquoted.tag-string.nunjucks</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#819DC2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Numjucks Attribute</string>
+            <key>scope</key>
+            <string>storage.type.attr.nunjucks</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#7DA76F</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>markdown styles</string>
             <key>scope</key>
             <string>markup.bold.markdown, markup.italic.markdown</string>
@@ -565,6 +620,17 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Pageman Jekyll Header</string>
+            <key>scope</key>
+            <string>constant.language.jekyll-header.pageman</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#7DA76F</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>CSS Selectors (General)</string>
             <key>scope</key>
             <string>meta.selector.css</string>
@@ -670,7 +736,7 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#D38569</string>
+                <string>#819DC2</string>
             </dict>
         </dict>
         <dict>    
@@ -737,6 +803,72 @@
             <dict>    
                 <key>foreground</key>
                 <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>CSS Simple Meta</string>
+            <key>scope</key>
+            <string>meta.property-name.css</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#D38569</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>CSS Attribute</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.css</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>CSS Class</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.class.css</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>CSS Attribute</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.pseudo-class.css</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#7DA76F</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>CSS Element Id</string>
+            <key>scope</key>
+            <string>punctuation.definition.entity.css, entity.other.attribute-name.id.css</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#D38569</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>CSS Keyframe Offset</string>
+            <key>scope</key>
+            <string>entity.other.keyframe-offset.css</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#819DC2</string>
             </dict>
         </dict>
         <dict>    

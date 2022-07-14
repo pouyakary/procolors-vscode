@@ -1,5 +1,10 @@
 # What is Changed
 
+## 27.3.0
+- **Improvement!** &mdash; A much better CSS experience.
+- **Improvement!** &mdash; Improved HTML.
+- **New!** &mdash; Support for Numjucks added.
+
 ## 27.2.3
 - **Improvement!** &mdash; Border for the Light suggestions.
 - **Improvement!** &mdash; Symbol color for the suggestions menu.
