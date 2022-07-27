@@ -23,7 +23,7 @@
         "commandCenter.border":                                    "#00000000",
         "commandCenter.foreground":                                "#EEEEEE",
         "contrastBorder":                                          "#282828",
-        "dart.closingLabels":                                      "#707070",
+        "dart.closingLabels":                                      "#819dc26f",
         "diffEditor.diagonalFill":                                 "#404040",
         "diffEditor.insertedLineBackground":                       "#9500FF20",
         "diffEditor.insertedTextBackground":                       "#00FF2220",
