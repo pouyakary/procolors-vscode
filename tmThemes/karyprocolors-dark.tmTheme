@@ -301,6 +301,17 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Optionality Operator</string>
+            <key>scope</key>
+            <string>punctuation.accessor.optional</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Named Objects</string>
             <key>scope</key>
             <string>storage.modifier.named.karyscript</string>
@@ -3410,17 +3421,6 @@
             <dict>    
                 <key>foreground</key>
                 <string>#BC9550</string>
-            </dict>
-        </dict>
-        <dict>    
-            <key>name</key>
-            <string>Dart Closing Labels</string>
-            <key>scope</key>
-            <string>dart.closingLabels</string>
-            <key>settings</key>
-            <dict>    
-                <key>foreground</key>
-                <string>#CCCCCC</string>
             </dict>
         </dict>
         <dict>    
