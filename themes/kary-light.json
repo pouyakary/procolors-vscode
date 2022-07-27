@@ -26,6 +26,7 @@
         "commandCenter.border":                                    "#00000000",
         "commandCenter.foreground":                                "#555555",
         "contrastBorder":                                          "#E5E5E5",
+        "dart.closingLabels":                                      "#C7C7C7",
         "diffEditor.diagonalFill":                                 "#DDDDDD",
         "diffEditor.insertedTextBackground":                       "#D1EAFF40",
         "diffEditor.removedTextBackground":                        "#FDC0C040",
