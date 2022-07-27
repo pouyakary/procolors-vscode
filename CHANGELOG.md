@@ -1,5 +1,9 @@
 # What is Changed
 
+## 28.0.0
+- **New!** &mdash; Huge Dart support has landed on Pro Colors.
+- **Improvement!** &mdash; Light indentation colors got better.
+
 ## 27.3.0
 - **Improvement!** &mdash; A much better CSS experience.
 - **Improvement!** &mdash; Improved HTML.
