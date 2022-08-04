@@ -3238,9 +3238,9 @@
         </dict>
         <dict>    
             <key>name</key>
-            <string>Dart Primitive Type</string>
+            <string>Dart Primitive Types</string>
             <key>scope</key>
-            <string>storage.type.primitive.dart</string>
+            <string>storage.type.primitive.double.dart, storage.type.primitive.int.dart, storage.type.primitive.bool.dart, storage.type.primitive.String.dart</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -3310,14 +3310,14 @@
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
-                <string>#B052A1</string>
+                <string>#A56416</string>
             </dict>
         </dict>
         <dict>    
             <key>name</key>
             <string>Dart Var Keyword</string>
             <key>scope</key>
-            <string>storage.type.primitive.dart</string>
+            <string>storage.type.primitive.var.dart</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -3417,6 +3417,39 @@
             <string>Dart Abstract Keyword</string>
             <key>scope</key>
             <string>keyword.declaration.abstract.dart</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Dart Late Keyword</string>
+            <key>scope</key>
+            <string>storage.modifier.late.dart</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Dart Static Keyword</string>
+            <key>scope</key>
+            <string>storage.modifier.static.dart</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Dart Get and Set Keywords</string>
+            <key>scope</key>
+            <string>keyword.declaration.get.dart, keyword.declaration.set.dart</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
