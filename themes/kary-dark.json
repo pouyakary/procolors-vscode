@@ -66,6 +66,8 @@
         "editorOverviewRuler.modifiedForeground":                  "#819DC2",
         "editorOverviewRuler.wordHighlightForeground":             "#793BF7",
         "editorOverviewRuler.wordHighlightStrongForeground":       "#405CA1",
+        "editorStickyScroll.background":                           "#101010",
+        "editorStickyScrollHover.background":                      "#212121",
         "editorSuggestWidget.border":                              "#282828",
         "editorSuggestWidget.foreground":                          "#AED1FF",
         "editorSuggestWidget.highlightForeground":                 "#AED1FF",
