@@ -236,7 +236,8 @@
         "textLink.activeForeground":                               "#AED1FF",
         "textLink.foreground":                                     "#819DC2",
         "titleBar.activeBackground":                               "#202020",
-        "titleBar.activeForeground":                               "#AAAAAA",
+        "titleBar.activeForeground":                               "#BABABA",
+        "titleBar.inactiveForeground":                             "#7E7E7E",
         "tree.indentGuidesStroke":                                 "#7DA76F",
         "welcomePage.buttonBackground":                            "#202020"
     }
