@@ -21,6 +21,7 @@ const byFileName = {
         '.gitignore',
         'LICENSE',
         'CHANGELOG',
+        'Podfile',
     ],
 
     assets: [
@@ -69,7 +70,7 @@ const byFileExtensions = {
     ],
 
     configuration: [
-        'plist', 'properties', 'mf', 'localstorage', 'dockerfile', 'aux', 'lut', 'container',
+        'plist', 'properties', 'mf', 'localstorage', 'dockerfile', 'aux', 'lut', 'container', 'gradle'
     ]
 }
 
