@@ -1,0 +1,84 @@
+{
+    "file":                "code_file_dark",
+    "folder":              "_folder_dark",
+    "folderExpanded":      "_folder_expanded_dark",
+    "fileExtensions": {
+        "json":        "_assets_file_dark",
+        "latex":       "_document_file_dark",
+        "md":          "_document_file_dark",
+        "pageman":     "_document_file_dark",
+        "png":         "_assets_file_dark",
+        "tex":         "_document_file_dark",
+        "text":        "_document_file_dark",
+        "txt":         "_document_file_dark",
+        "yml":         "_assets_file_dark"
+    },
+    "fileNames": {
+        ".gitignore":              "_configuration_file_dark",
+        ".npmignore":              "_configuration_file_dark",
+        "k.yml":                   "_configuration_file_dark",
+        "package-lock.json":       "_configuration_file_dark",
+        "package.json":            "_configuration_file_dark"
+    },
+    "light": {
+        "file":                "code_file_light",
+        "folder":              "_folder_light",
+        "folderExpanded":      "_folder_expanded_light",
+        "fileExtensions": {
+            "json":        "_assets_file_light",
+            "latex":       "_document_file_light",
+            "md":          "_document_file_light",
+            "pageman":     "_document_file_light",
+            "png":         "_assets_file_light",
+            "tex":         "_document_file_light",
+            "text":        "_document_file_light",
+            "txt":         "_document_file_light",
+            "yml":         "_assets_file_light"
+        },
+        "fileNames": {
+            ".gitignore":              "_configuration_file_light",
+            ".npmignore":              "_configuration_file_light",
+            "k.yml":                   "_configuration_file_light",
+            "package-lock.json":       "_configuration_file_light",
+            "package.json":            "_configuration_file_light"
+        }
+    },
+    "iconDefinitions": {
+        "_folder_light": {
+            "iconPath":    "./assets/folder-light.svg"
+        },
+        "_folder_dark": {
+            "iconPath":    "./assets/folder-dark.svg"
+        },
+        "_folder_expanded_light": {
+            "iconPath":    "./assets/folder-expanded-light.svg"
+        },
+        "_folder_expanded_dark": {
+            "iconPath":    "./assets/folder-expanded-dark.svg"
+        },
+        "code_file_light": {
+            "iconPath":    "./assets/code-file-light.svg"
+        },
+        "code_file_dark": {
+            "iconPath":    "./assets/code-file-dark.svg"
+        },
+        "_assets_file_light": {
+            "iconPath":    "./assets/assets-file-light.svg"
+        },
+        "_assets_file_dark": {
+            "iconPath":    "./assets/assets-file-dark.svg"
+        },
+        "_configuration_file_light": {
+            "iconPath":    "./assets/configuration-file-light.svg"
+        },
+        "_configuration_file_dark": {
+            "iconPath":    "./assets/configuration-file-dark.svg"
+        },
+        "_document_file_light": {
+            "iconPath":    "./assets/document-file-light.svg"
+        },
+        "_document_file_dark": {
+            "iconPath":    "./assets/document-file-dark.svg"
+        }
+    }
+}

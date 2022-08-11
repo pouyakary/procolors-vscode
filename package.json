@@ -1,54 +1,59 @@
 {
-	"name": "theme-karyfoundation-themes",
-	"displayName": "Kary Pro Colors",
-	"description": "A suite of carefully harmonized themes with a professional feel",
-	"version": "27.2.3",
-	"publisher": "karyfoundation",
-	"icon": "icon.png",
-	"galleryBanner": {
-		"color": "#f7f7f7",
-		"theme": "light"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/pouyakary/procolors"
-	},
-	"homepage": "https://kary.us",
-	"engines": {
-		"vscode": "^1.7.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Kary Pro Colors － Light",
-				"uiTheme": "vs",
-				"path": "./themes/kary-light.json"
-			},
-			{
-				"label": "Kary Pro Colors － Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/kary-dark.json"
-			}
-		],
-		"iconThemes": [
-			{
-				"id": "kary-standard-icons",
-				"label": "Kary Pro Colors － Classic",
-				"path": "./icons/icons-standard.json"
-			},
-			{
-				"id": "kary-notebook-icons",
-				"label": "Kary Pro Colors － Notebook",
-				"path": "./icons/icons-notebook.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "a150991b-031b-457a-b823-ef4c45425a1b",
-		"publisherId": "00c37c0d-e370-4cc2-8ab3-3fa32a26514a",
-		"publisherDisplayName": "Pouya Kary"
-	}
+    "description":     "A suite of carefully harmonized themes with a professional feel",
+    "displayName":     "Kary Pro Colors",
+    "homepage":        "https://kary.us",
+    "icon":            "icon.png",
+    "name":            "theme-karyfoundation-themes",
+    "publisher":       "karyfoundation",
+    "version":         "27.2.3",
+    "galleryBanner": {
+        "color":       "#f7f7f7",
+        "theme":       "light"
+    },
+    "repository": {
+        "type":    "git",
+        "url":     "https://github.com/pouyakary/procolors"
+    },
+    "engines": {
+        "vscode":      "^1.7.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label":       "Kary Pro Colors － Light",
+                "path":        "./themes/kary-light.json",
+                "uiTheme":     "vs"
+            },
+            {
+                "label":       "Kary Pro Colors － Dark",
+                "path":        "./themes/kary-dark.json",
+                "uiTheme":     "vs-dark"
+            }
+        ],
+        "iconThemes": [
+            {
+                "id":          "kary-pro-colors-icons",
+                "label":       "Kary Pro Colors － Modern",
+                "path":        "./icons/icons-pro-colors.json"
+            },
+            {
+                "id":          "kary-standard-icons",
+                "label":       "Kary Pro Colors － Classic",
+                "path":        "./icons/icons-standard.json"
+            },
+            {
+                "id":          "kary-notebook-icons",
+                "label":       "Kary Pro Colors － Notebook",
+                "path":        "./icons/icons-notebook.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "id":                      "a150991b-031b-457a-b823-ef4c45425a1b",
+        "publisherDisplayName":    "Pouya Kary",
+        "publisherId":             "00c37c0d-e370-4cc2-8ab3-3fa32a26514a"
+    }
 }
