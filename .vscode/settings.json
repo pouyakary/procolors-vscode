@@ -1,9 +1,17 @@
 {
-    "editor.formatOnSave":     true,
+    "[json]": {
+        "editor.formatOnSave":             true,
+        "editor.suggest.insertMode":       "replace",
+        "editor.quickSuggestions": {
+            "strings":     true
+        }
+    },
     "cSpell.words": [
         "ACTIVEBACKGROUND",
+        "flac",
         "karyfoundation",
         "karyprocolors",
+        "pageman",
         "TEXTBLOCKQUOTE"
     ]
 }
