@@ -14,20 +14,13 @@ const byLanguageIds = {
 
 const byFileName = {
     configuration: [
-        // NPM
         'package.json', 'package-lock.json', '.npmignore',
-
-        // GNU Make
         'Makefile',
-
-        // Rust Cargo
         'cargo.toml',
-
-        // dart
         'pubspec.yaml', 'pubspec.lock',
-
-        // git
-        '.gitignore'
+        '.gitignore',
+        'LICENSE',
+        'CHANGELOG',
     ],
 
     assets: [
