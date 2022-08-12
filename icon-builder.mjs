@@ -13,14 +13,18 @@ const byLanguageIds = {
 }
 
 const byFileName = {
+    document: [
+        'LICENSE',
+        'CHANGELOG',
+        'README',
+    ],
+
     configuration: [
         'package.json', 'package-lock.json', '.npmignore',
         'Makefile',
         'cargo.toml',
         'pubspec.yaml', 'pubspec.lock',
         '.gitignore',
-        'LICENSE',
-        'CHANGELOG',
         'Podfile',
     ],
 
