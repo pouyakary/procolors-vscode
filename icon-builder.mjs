@@ -7,7 +7,7 @@ const byLanguageIds = {
     document: [
         'latex', 'markdown', 'pageman', 'tex', 'txt',
     ],
-    assets: [
+    data: [
         'json', 'jsonc', 'ini', 'xml', 'xsl', 'yaml', 'toml'
     ]
 }
@@ -55,9 +55,6 @@ const byFileExtensions = {
         // audio
         'mp3', 'wav',
 
-        // databases
-        'db', 'mdb', 'csv', 'gdb', 'sqlite', 'cdb', 'sdb',
-
         // ebook
         'epub', 'mobi', 'cbr', 'htmlz', 'azw',  'azw1', 'azw2', 'azw3', 'azw4', 'azw5', 'azw6', 'azw7', 'azw8', 'azw9', 'azw10', 'azw11', 'azw12', 'azw13',
 
@@ -66,7 +63,12 @@ const byFileExtensions = {
     ],
 
     document: [
-        'txt', 'html', 'csv', 'md', 'manifest', 'ascii', 'midi',
+        'md', 'markdown', 'html',
+        'txt', 'manifest', 'ascii', 'midi',
+    ],
+
+    data: [
+        'csv', 'db', 'mdb', 'csv', 'gdb', 'sqlite', 'cdb', 'sdb',
     ],
 
     configuration: [
@@ -146,6 +148,12 @@ function generateIconManifestJSON() {
             },
             _document_file_dark: {
                 iconPath:    "./assets/document-file-dark.svg"
+            },
+            _data_file_light: {
+                iconPath:    "./assets/tag-file-light.svg"
+            },
+            _data_file_dark: {
+                iconPath:    "./assets/tag-file-dark.svg"
             },
         }
     });
