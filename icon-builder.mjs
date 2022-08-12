@@ -68,11 +68,11 @@ const byFileExtensions = {
     ],
 
     data: [
-        'csv', 'db', 'mdb', 'csv', 'gdb', 'sqlite', 'cdb', 'sdb',
+        'csv', 'db', 'mdb', 'csv', 'gdb', 'sqlite', 'cdb', 'sdb', 'tmLanguage', 'tmTheme'
     ],
 
     configuration: [
-        'plist', 'properties', 'mf', 'localstorage', 'dockerfile', 'aux', 'lut', 'container', 'gradle', '.tmLanguage', '.tmTheme'
+        'plist', 'properties', 'mf', 'localstorage', 'dockerfile', 'aux', 'lut', 'container', 'gradle',
     ]
 }
 
