@@ -72,7 +72,7 @@ const byFileExtensions = {
     ],
 
     configuration: [
-        'plist', 'properties', 'mf', 'localstorage', 'dockerfile', 'aux', 'lut', 'container', 'gradle'
+        'plist', 'properties', 'mf', 'localstorage', 'dockerfile', 'aux', 'lut', 'container', 'gradle', '.tmLanguage', '.tmTheme'
     ]
 }
 
