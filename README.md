@@ -9,12 +9,6 @@
 Given the possibilities and limitations we have tired our best to fully recolor Visual Studio Code to a new level and make it an entirely new experience which we really hope you like and enjoy!
 ![workspace](https://user-images.githubusercontent.com/2157285/28645872-4da1ab5e-7274-11e7-9eee-a7ab6609ac08.png)
 
-## Icons
-This theme includes two minimalistic icon packs that are carefully choosen for the style and coloring of this theme. The icons in these sets are designed by [AnhGreen](https://www.flaticon.com/authors/anhgreen) and [Kiranshastry](https://www.flaticon.com/authors/kiranshastry).
-
-![Kary Pro Colors - Icons](https://user-images.githubusercontent.com/2157285/37030223-7195fb3e-214f-11e8-9b3f-d8f76c8747ea.png)
-
-
 
 ## The theme…
 This theme works great on many file formats but it works even better on some very special formats because we provide first class support which means each token of these languages are specifically themed and they will look sublime when you work with them in this theme.

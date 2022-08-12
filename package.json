@@ -36,18 +36,8 @@
         "iconThemes": [
             {
                 "id":          "kary-pro-colors-icons",
-                "label":       "Kary Pro Colors － Modern",
+                "label":       "Kary Pro Colors",
                 "path":        "./icons/icons-pro-colors.json"
-            },
-            {
-                "id":          "kary-standard-icons",
-                "label":       "Kary Pro Colors － Classic",
-                "path":        "./icons/icons-standard.json"
-            },
-            {
-                "id":          "kary-notebook-icons",
-                "label":       "Kary Pro Colors － Notebook",
-                "path":        "./icons/icons-notebook.json"
             }
         ]
     },
