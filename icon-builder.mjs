@@ -100,11 +100,11 @@ const byFileExtensions = {
 
     document: [
         'md', 'markdown', 'html',
-        'txt', 'manifest', 'ascii', 'midi',
+        'txt', 'ascii', 'midi',
     ],
 
     data: [
-        'csv', 'db', 'mdb', 'csv', 'gdb', 'sqlite', 'cdb', 'sdb', 'tmLanguage', 'tmTheme', 'lock'
+        'csv', 'db', 'mdb', 'csv', 'gdb', 'sqlite', 'cdb', 'sdb', 'tmLanguage', 'tmTheme', 'lock', 'manifest',
     ],
 
     configuration: [
