@@ -20,12 +20,33 @@ const byFileName = {
     ],
 
     configuration: [
+        // Node
         'package.json', 'package-lock.json', '.npmignore',
+        // GNU Make
         'Makefile',
-        'cargo.toml',
+        // Dart and Flutter Pub
         'pubspec.yaml', 'pubspec.lock',
+        // TypeScript
+        'tsconfig.json',
+        // Webpack
+        'webpack.js',
+        // KaryScript
+        'k.yml',
+        // Rust
+        'cargo.toml',
+        // Haskell
+        'stack.yml',
+        // Git
         '.gitignore',
+        // CocoaPods
         'Podfile',
+        // GitHub
+        'CNAME',
+        // Travis CI
+        '.travis.yml',
+        // Gulp
+        'gulpfile.js',
+
     ],
 
     assets: [
@@ -76,7 +97,15 @@ const byFileExtensions = {
     ],
 
     configuration: [
-        'plist', 'properties', 'mf', 'localstorage', 'dockerfile', 'aux', 'lut', 'container', 'gradle',
+        'sh', 'shell', 'bsh', 'bash',
+        'plist', 'properties', 'mf', 'localstorage',
+        'dockerfile',
+        'aux',
+        'lut',
+        'container',
+        'gradle',
+        'cabal',
+        'cmake',
     ]
 }
 
@@ -154,10 +183,10 @@ function generateIconManifestJSON() {
                 iconPath:    "./assets/document-file-dark.svg"
             },
             _data_file_light: {
-                iconPath:    "./assets/tag-file-light.svg"
+                iconPath:    "./assets/data-file-light.svg"
             },
             _data_file_dark: {
-                iconPath:    "./assets/tag-file-dark.svg"
+                iconPath:    "./assets/data-file-dark.svg"
             },
         }
     });
