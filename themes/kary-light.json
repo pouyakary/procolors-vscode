@@ -69,6 +69,7 @@
         "editorIndentGuide.background":                            "#EEEEEE",
         "editorInlayHint.background":                              "#FFF5D6",
         "editorInlayHint.foreground":                              "#A56416",
+        "editorLightBulb.foreground":                              "#3778B7",
         "editorLineNumber.activeForeground":                       "#AA630C",
         "editorLineNumber.foreground":                             "#CCCCCC",
         "editorOverviewRuler.addedForeground":                     "#428226",

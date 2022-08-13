@@ -4,6 +4,7 @@
 - **New!** &mdash; Huge Dart support has landed on Pro Colors.
 - **New!** &mdash; Terminal Decoration colors added.
 - **New!** &mdash; Sticky Header colors added.
+- **New!** &mdash; Light Bulb colors added.
 - **Improvement!** &mdash; Light indentation colors got better.
 
 ## 27.3.0
