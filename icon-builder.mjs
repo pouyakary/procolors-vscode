@@ -49,6 +49,7 @@ const byFileName = {
         'gulpfile.js',
         // vscode
         '.vscodeignore'
+        // cmake
     ],
 
     data: [
@@ -59,6 +60,8 @@ const byFileName = {
         '.vsixmanifest',
         // Node
         'package-lock.json',
+        // CMake
+        'CMakeLists.txt'
     ]
 }
 
@@ -95,7 +98,13 @@ const byFileExtensions = {
 
         // compressed files
         'rar', 'zip', 'gzip', '7z', 'pkg', 'dmg', 'asar', 'asec', 'jar', 'ipa', 'apx', 'deb',
-        'zlib', 'msu', 'lz4', 'rpm', ''
+        'zlib', 'msu', 'lz4', 'rpm',
+
+        // binary
+        'exe',
+
+        // databases
+        'sqlite', 'gdb', 'cdb', 'sdb',
     ],
 
     document: [
@@ -104,12 +113,16 @@ const byFileExtensions = {
     ],
 
     data: [
-        'csv', 'db', 'mdb', 'csv', 'gdb', 'sqlite', 'cdb', 'sdb', 'tmLanguage', 'tmTheme', 'lock', 'manifest',
+        'csv', 'tsv',
+        'tmLanguage', 'tmTheme',
+        'lock', 'manifest',
+        'entitlements',
     ],
 
     configuration: [
         'sh', 'shell', 'bsh', 'bash',
-        'plist', 'properties', 'mf', 'localstorage',
+        'plist', 'xcconfig',
+        'properties', 'mf', 'localstorage',
         'dockerfile',
         'aux',
         'lut',
@@ -123,11 +136,8 @@ const byFileExtensions = {
 // ─── Dictionary To Json ─────────────────────────────────────────────────────────
 
 function mapDictionaryToJSON(dictionary, appearance) {
-    const emptyLine = /^\s*$/
-
     function sortAndPurifyTheList(list) {
-        const removedEmpty      = list.filter(x => !emptyLine.test(x))
-        const removedDuplicates = Array.from(new Set(removedEmpty))
+        const removedDuplicates = Array.from(new Set(list))
         const sorted            = removedDuplicates.sort()
         return sorted
     }
