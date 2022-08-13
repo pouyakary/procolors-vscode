@@ -47,6 +47,8 @@ const byFileName = {
         '.travis.yml',
         // Gulp
         'gulpfile.js',
+        // vscode
+        '.vscodeignore'
     ],
 
     data: [
