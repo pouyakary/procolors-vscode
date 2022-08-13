@@ -25,7 +25,8 @@ const byFileName = {
         // GNU Make
         'Makefile',
         // Dart and Flutter Pub
-        'pubspec.yaml', 'pubspec.lock',
+        'pubspec.yaml', 'pubspec.lock', '.flutter-plugins',
+        '.flutter-plugins-dependencies', '.packages', '.metadata',
         // TypeScript
         'tsconfig.json',
         // Webpack
@@ -46,22 +47,16 @@ const byFileName = {
         '.travis.yml',
         // Gulp
         'gulpfile.js',
-
-    ],
-
-    assets: [
-        '.flutter-plugins',
-        '.flutter-plugins-dependencies',
-        '.packages',
-        '.metadata',
+        // VSCE (vscode)
         '.vsixmanifest',
-    ]
+    ],
 }
 
 const byFileExtensions = {
     assets: [
         // images
-        'png', 'jpeg', 'jpg', 'tiff', 'gif', 'webp', 'heic', 'cam', 'bmp', 'raw', 'thumb', 'exr', 'tn3', 'g3p', 'bitmap', 'rgba',
+        'png', 'jpeg', 'jpg', 'tiff', 'gif', 'webp', 'heic', 'cam', 'bmp', 'raw', 'thumb', 'exr',
+        'tn3', 'g3p', 'bitmap', 'rgba',
 
         // fonts
         'ttf', 'otf', 'woff', 'woff2', 'pkt', 'eot', 'ofm', 'glyphs', 'suit',
@@ -73,7 +68,11 @@ const byFileExtensions = {
         'ico', 'icns', 'icon',
 
         // graphics
-        'sketch', 'eps', 'psd', 'ax3', 'gplt', 'cv4', 'oci', 'ggr', 'qti', 'vstm', 'std', 'psq', 'rad', 'nitf', 'pcj', 'pdb', 'm3d', 'cmtx', 'r8', 'cs8', 'cps', 'inline', 'smil', 'qtif', 'aegraphic', 'des', 'qif', 'ogg', 'kfa', 'psi', 'vec', 'ai', 'fla', 'afdesign', 'pic', 'abr', 'djvu',
+        'sketch', 'eps', 'psd', 'ax3', 'gplt', 'cv4', 'oci', 'ggr', 'qti', 'vstm', 'std', 'psq',
+        'rad', 'nitf', 'pcj', 'pdb', 'm3d', 'cmtx', 'r8', 'cs8', 'cps', 'inline', 'smil', 'qtif',
+        'aegraphic', 'des', 'qif', 'ogg', 'kfa', 'psi', 'vec', 'ai', 'fla', 'afdesign', 'pic',
+        'abr', 'djvu',
+
         // video
         'webm', 'apng',
 
@@ -81,10 +80,12 @@ const byFileExtensions = {
         'mp3', 'wav',
 
         // ebook
-        'epub', 'mobi', 'cbr', 'htmlz', 'azw',  'azw1', 'azw2', 'azw3', 'azw4', 'azw5', 'azw6', 'azw7', 'azw8', 'azw9', 'azw10', 'azw11', 'azw12', 'azw13',
+        'epub', 'mobi', 'cbr', 'htmlz', 'azw',  'azw1', 'azw2', 'azw3', 'azw4', 'azw5', 'azw6',
+        'azw7', 'azw8', 'azw9', 'azw10', 'azw11', 'azw12', 'azw13',
 
         // compressed files
-        'rar', 'zip', 'gzip', '7z', 'pkg', 'dmg', 'asar', 'asec', 'jar', 'ipa', 'apx', 'deb', 'zlib', 'msu', 'lz4', 'rpm', ''
+        'rar', 'zip', 'gzip', '7z', 'pkg', 'dmg', 'asar', 'asec', 'jar', 'ipa', 'apx', 'deb',
+        'zlib', 'msu', 'lz4', 'rpm', ''
     ],
 
     document: [
