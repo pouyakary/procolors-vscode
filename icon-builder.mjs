@@ -21,12 +21,11 @@ const byFileName = {
 
     configuration: [
         // Node
-        'package.json', 'package-lock.json', '.npmignore',
+        'package.json', '.npmignore',
         // GNU Make
         'Makefile',
         // Dart and Flutter Pub
-        'pubspec.yaml', 'pubspec.lock', '.flutter-plugins',
-        '.flutter-plugins-dependencies', '.packages', '.metadata',
+        'pubspec.yaml',
         // TypeScript
         'tsconfig.json',
         // Webpack
@@ -47,9 +46,17 @@ const byFileName = {
         '.travis.yml',
         // Gulp
         'gulpfile.js',
+    ],
+
+    data: [
+        // Flutter
+        '.flutter-plugins',
+        '.flutter-plugins-dependencies', '.packages', '.metadata',
         // VSCE (vscode)
         '.vsixmanifest',
-    ],
+        // Node
+        'package-lock.json',
+    ]
 }
 
 const byFileExtensions = {
@@ -94,7 +101,7 @@ const byFileExtensions = {
     ],
 
     data: [
-        'csv', 'db', 'mdb', 'csv', 'gdb', 'sqlite', 'cdb', 'sdb', 'tmLanguage', 'tmTheme'
+        'csv', 'db', 'mdb', 'csv', 'gdb', 'sqlite', 'cdb', 'sdb', 'tmLanguage', 'tmTheme', 'lock'
     ],
 
     configuration: [
