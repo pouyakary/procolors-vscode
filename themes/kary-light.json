@@ -39,7 +39,7 @@
         "editor.findMatchBackground":                              "#FFECAC",
         "editor.findMatchHighlightBackground":                     "#D8FFDB",
         "editor.findRangeHighlightBackground":                     "#FFF9AE",
-        "editor.lineHighlightBackground":                          "#EEEEEE90",
+        "editor.lineHighlightBackground":                          "#EEEEEE7f",
         "editor.lineHighlightBorder":                              "#FFFFFF00",
         "editor.selectionHighlightBackground":                     "#E2EEFA",
         "editor.snippetFinalTabstopHighlightBorder":               "#FF0000",
