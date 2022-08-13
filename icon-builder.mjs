@@ -1,5 +1,6 @@
 import * as fs from 'fs';
 import * as path from 'path';
+import * as virtuous from '@kary/virtuous';
 
 // ─── Lists ──────────────────────────────────────────────────────────────────────
 
@@ -120,8 +121,13 @@ const byFileExtensions = {
 // ─── Dictionary To Json ─────────────────────────────────────────────────────────
 
 function mapDictionaryToJSON(dictionary, appearance) {
+    const emptyLine = /^\s*$/
+
     function sortAndPurifyTheList(list) {
-        return Array.from(new Set(list)).sort()
+        const removedEmpty      = list.filter(x => !emptyLine.test(x))
+        const removedDuplicates = Array.from(new Set(removedEmpty))
+        const sorted            = removedDuplicates.sort()
+        return sorted
     }
 
     let results = {};
@@ -207,5 +213,7 @@ main(); function main() {
         path.join(process.cwd(), "icons", "icons-pro-colors.json");
     const generatedJSON =
         generateIconManifestJSON();
-    fs.writeFileSync(pathToIconManifest, generatedJSON);
+    const formatted =
+        virtuous.format(generatedJSON).value
+    fs.writeFileSync(pathToIconManifest, formatted);
 }
