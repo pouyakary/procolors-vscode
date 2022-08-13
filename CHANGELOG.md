@@ -6,6 +6,7 @@
 - **New!** &mdash; Sticky Header colors added.
 - **New!** &mdash; Light Bulb colors added.
 - **Improvement!** &mdash; Light indentation colors got better.
+- **Improvement!** &mdash; New light theme, line highlight background color.
 
 ## 27.3.0
 - **Improvement!** &mdash; A much better CSS experience.
