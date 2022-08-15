@@ -66,7 +66,7 @@ const byFileName = {
 }
 
 const byFileExtensions = {
-    assets: [
+    asset: [
         // images
         'png', 'jpeg', 'jpg', 'tiff', 'gif', 'webp', 'heic', 'cam', 'bmp', 'raw', 'thumb', 'exr',
         'tn3', 'g3p', 'bitmap', 'rgba',
@@ -190,11 +190,11 @@ function generateIconManifestJSON() {
             code_file_dark: {
                 iconPath:    "./assets/code-file-dark.svg"
             },
-            _assets_file_light: {
-                iconPath:    "./assets/assets-file-light.svg"
+            _asset_file_light: {
+                iconPath:    "./assets/asset-file-light.svg"
             },
-            _assets_file_dark: {
-                iconPath:    "./assets/assets-file-dark.svg"
+            _asset_file_dark: {
+                iconPath:    "./assets/asset-file-dark.svg"
             },
             _configuration_file_light: {
                 iconPath:    "./assets/configuration-file-light.svg"
