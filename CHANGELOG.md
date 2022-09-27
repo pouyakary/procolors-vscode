@@ -17,6 +17,8 @@
 
 <img width="599" alt="Error Lens colors in Pro Colors - Dark" src="https://user-images.githubusercontent.com/2157285/192591551-51fbee11-49fc-45db-b360-297bc190afcd.png">
 
+- **Improvement!** &mdash; Light version diff editor improvements.
+
 
 ## 28.0.0
 - **New!** &mdash; Huge Dart support has landed on Pro Colors.
