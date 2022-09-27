@@ -3513,6 +3513,61 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Dart Async Keyword</string>
+            <key>scope</key>
+            <string>keyword.control.async.dart</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Dart Language Variable</string>
+            <key>scope</key>
+            <string>variable.language.dart</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#7DA76F</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Dart Const Keyword</string>
+            <key>scope</key>
+            <string>storage.modifier.const.dart</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Dart Implements Keyword</string>
+            <key>scope</key>
+            <string>keyword.declaration.implements.dart</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Dart Default Keyword</string>
+            <key>scope</key>
+            <string>keyword.control.default.dart</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Class Name</string>
             <key>scope</key>
             <string>support.class.applescript, support.class.itunes.applescript</string>
