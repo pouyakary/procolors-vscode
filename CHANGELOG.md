@@ -1,5 +1,8 @@
 # What is Changed
 
+## 30.0.1
+- **Improvement!** &mdash; Quick fix on the light context menu
+
 ## 30.0.0
 - **New!** &mdash; Pro Colors now has it's very own icons! It's really pretty and you have to see it.
 
