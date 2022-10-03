@@ -1,6 +1,6 @@
 # What is Changed
 
-## 31.0.0
+## 31.0.2
 - **New!** &mdash; Pro Colors Dark now has scrollbar colors.
 
 ## 30.0.1
