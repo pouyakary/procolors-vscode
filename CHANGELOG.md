@@ -1,5 +1,8 @@
 # What is Changed
 
+## 31.0.0
+- **New!** &mdash; Pro Colors Dark now has scrollbar colors.
+
 ## 30.0.1
 - **Improvement!** &mdash; Quick fix on the light context menu
 
