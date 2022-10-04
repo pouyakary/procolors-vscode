@@ -13,19 +13,11 @@
 ## 30.0.0
 - **New!** &mdash; Pro Colors now has it's very own icons! It's really pretty and you have to see it.
 
-![](https://user-images.githubusercontent.com/2157285/192589086-39aea338-7a0c-49a0-822b-29388542a85c.png)
-
 - **New!** &mdash; Dart language support was always a plan. But it was not possible because of the grammar. I'm actually in [the process of rewriting the grammar](https://github.com/Dart-Code/Dart-Code/pull/4067) and the great [Danny Tuppeny](https://github.com/DanTup) is helping too. Once the upstream Dart Code extension recieves the updates, Pro Colors will be fully compatible and ready. This also includes support for Dart Code's Widget annotations. Dart is probably the best supported language after JavaScript/TypeScript now.
 
 - **New!** &mdash; A Huge update on the Dark Theme. Sidebars and tab bar are updated with a darker color which you have to see for yourself. Focus colors and such in the trees are updated as well.
 
-![](https://user-images.githubusercontent.com/2157285/192589967-232dbbbb-59b5-4bbf-aa94-890c8ea4b14d.png)
-
 - **New!** &mdash; Gorgeous Support for the [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens):
-
-<img width="599" alt="Error Lens colors in Pro Colors - Light" src="https://user-images.githubusercontent.com/2157285/192591567-f2df0122-a100-44dc-96f9-ebfb18e33cbe.png">
-
-<img width="599" alt="Error Lens colors in Pro Colors - Dark" src="https://user-images.githubusercontent.com/2157285/192591551-51fbee11-49fc-45db-b360-297bc190afcd.png">
 
 - **Improvement!** &mdash; Light version diff editor improvements.
 
