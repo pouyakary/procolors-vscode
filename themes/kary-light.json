@@ -29,6 +29,7 @@
         "dart.closingLabels":                                      "#A5641686",
         "debugIcon.breakpointDisabledForeground":                  "#9b9b9b",
         "debugIcon.breakpointForeground":                          "#E51500",
+        "debugToolBar.background":                                 "#E2EEFA",
         "diffEditor.diagonalFill":                                 "#DDDDDD",
         "diffEditor.insertedLineBackground":                       "#55fff91d",
         "diffEditor.insertedTextBackground":                       "#D1EAFF40",
