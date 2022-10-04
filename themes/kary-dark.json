@@ -184,7 +184,7 @@
         "sideBarTitle.foreground":                                 "#B98EB2",
         "statusBar.background":                                    "#356326",
         "statusBar.debuggingBackground":                           "#633302",
-        "statusBar.debuggingForeground":                           "#FFD250",
+        "statusBar.debuggingForeground":                           "#fcca6dc8",
         "statusBar.foreground":                                    "#70CF50",
         "statusBar.multiFolderBackground":                         "#7DA76F",
         "statusBar.noFolderBackground":                            "#4E2C7A",

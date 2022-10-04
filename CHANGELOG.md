@@ -1,5 +1,8 @@
 # What is Changed
 
+## 31.1.0
+- **Improvement!** &mdash; A much better color for Dark theme's debug status bar foreground.
+
 ## 31.0.3
 - **Hot Fix!** &mdash; Bad renamed resource color on dark theme got fixed.
 - **Hot Fix!** &mdash; Better match background on dark theme.
