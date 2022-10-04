@@ -1,6 +1,7 @@
 # What is Changed
 
 ## 31.1.0
+- **New!** &mdash; Debug console colors.
 - **Improvement!** &mdash; A much better color for Dark theme's debug status bar foreground.
 
 ## 31.0.3
