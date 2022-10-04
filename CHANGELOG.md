@@ -1,10 +1,14 @@
 # What is Changed
 
+## 31.0.3
+- **Hot Fix!** &mdash; Bad renamed resource color on dark theme got fixed.
+- **Hot Fix!** &mdash; Better match background on dark theme.
+
 ## 31.0.2
 - **New!** &mdash; Pro Colors Dark now has scrollbar colors.
 
 ## 30.0.1
-- **Improvement!** &mdash; Quick fix on the light context menu
+- **Hot Fix!** &mdash; Quick fix on the light context menu
 
 ## 30.0.0
 - **New!** &mdash; Pro Colors now has it's very own icons! It's really pretty and you have to see it.
