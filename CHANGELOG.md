@@ -1,5 +1,8 @@
 # What is Changed
 
+## 31.3.0
+- **New!** &mdash; Dark theme hover widget background.
+
 ## 31.2.0
 - **Improvement!** &mdash; Much much better menu colors.
 - **New!** &mdash; Toolbar icon background colors.
