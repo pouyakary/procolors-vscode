@@ -1687,6 +1687,17 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Python Self Keyword</string>
+            <key>scope</key>
+            <string>variable.language.special.self.python</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>JSON Keys</string>
             <key>scope</key>
             <string>support.type.property-name.json</string>
@@ -3273,7 +3284,7 @@
             <key>name</key>
             <string>Dart Class Name</string>
             <key>scope</key>
-            <string>support.class.dart</string>
+            <string>support.class.dart, entity.name.type.dart, entity.name.type.class.dart</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
@@ -3300,6 +3311,17 @@
             <dict>    
                 <key>foreground</key>
                 <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Dart Class Declaration Name</string>
+            <key>scope</key>
+            <string>entity.name.type.class.declaration.dart</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C94824</string>
             </dict>
         </dict>
         <dict>    
