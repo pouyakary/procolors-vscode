@@ -1,6 +1,9 @@
 # What is Changed
 
-## 31.1.0
+## 31.2.0
+- **Improvement!** &mdash; Much much better menu colors.
+- **New!** &mdash; Toolbar icon background colors.
+- **Improvement!** &mdash; Better debug toolbar backgrounds.
 - **Improvement!** &mdash; Better debugging statusbar color for Dark.
 - **New!** &mdash; Debug console colors.
 - **Improvement!** &mdash; A much better color for Dark theme's debug status bar foreground.
