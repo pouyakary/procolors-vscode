@@ -1,5 +1,8 @@
 # What is Changed
 
+## 31.4.0
+- **Improvement!** &mdash; Light theme hover widget border color improvement.
+
 ## 31.3.0
 - **New!** &mdash; Dark theme hover widget background.
 
