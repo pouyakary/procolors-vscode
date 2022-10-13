@@ -107,6 +107,7 @@
         "extensionIcon.starForeground":                            "#6D43C2",
         "extensionIcon.verifiedForeground":                        "#6D43C2",
         "focusBorder":                                             "#3778B7",
+        "icon.foreground":                                         "#C94824",
         "input.background":                                        "#E2EEFA",
         "input.border":                                            "#00000000",
         "input.foreground":                                        "#3778B7",
@@ -288,8 +289,8 @@
         "titleBar.activeForeground":                               "#858585",
         "titleBar.inactiveForeground":                             "#BABABA",
         "toolbar.activeBackground":                                "#E2EEFA",
-        "toolbar.hoverBackground":                                 "#FFFF00",
-        "tree.indentGuidesStroke":                                 "#428226",
+        "toolbar.hoverBackground":                                 "#FAE2E2",
+        "tree.indentGuidesStroke":                                 "#C94824",
         "widget.shadow":                                           "#EEEEEE"
     }
 }
