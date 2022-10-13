@@ -1,5 +1,8 @@
 # What is Changed
 
+## 31.4.0
+- **Improvement!** &mdash; Better pannel inactive title color for the dark theme.
+
 ## 31.3.0
 - **Improvement!** &mdash; Better light and dark icon colors.
 - **Improvement!** &mdash; Light theme hover widget border color improvement.
