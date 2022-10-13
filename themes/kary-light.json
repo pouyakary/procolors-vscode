@@ -288,7 +288,7 @@
         "titleBar.activeBackground":                               "#F1F1F1",
         "titleBar.activeForeground":                               "#858585",
         "titleBar.inactiveForeground":                             "#BABABA",
-        "toolbar.activeBackground":                                "#E2EEFA",
+        "toolbar.activeBackground":                                "#EEEEEE",
         "toolbar.hoverBackground":                                 "#FAE2E2",
         "tree.indentGuidesStroke":                                 "#C94824",
         "widget.shadow":                                           "#EEEEEE"

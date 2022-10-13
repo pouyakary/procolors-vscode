@@ -266,6 +266,7 @@
         "titleBar.activeForeground":                               "#BABABA",
         "titleBar.inactiveBackground":                             "#171717",
         "titleBar.inactiveForeground":                             "#7E7E7E",
+        "toolbar.activeBackground":                                "#000000",
         "toolbar.hoverBackground":                                 "#2D4366",
         "tree.indentGuidesStroke":                                 "#819DC2",
         "welcomePage.buttonBackground":                            "#202020"
