@@ -102,6 +102,7 @@
         "gitDecoration.stageDeletedResourceForeground":            "#FF0000",
         "gitDecoration.stageModifiedResourceForeground":           "#CFA199",
         "gitDecoration.untrackedResourceForeground":               "#82A2CA",
+        "icon.foreground":                                         "#819DC2",
         "input.background":                                        "#1A1A1A",
         "input.border":                                            "#282828",
         "inputOption.activeBackground":                            "#31353D",
@@ -265,8 +266,8 @@
         "titleBar.activeForeground":                               "#BABABA",
         "titleBar.inactiveBackground":                             "#171717",
         "titleBar.inactiveForeground":                             "#7E7E7E",
-        "toolbar.hoverBackground":                                 "#FFFFFF3D",
-        "tree.indentGuidesStroke":                                 "#7DA76F",
+        "toolbar.hoverBackground":                                 "#2D4366",
+        "tree.indentGuidesStroke":                                 "#819DC2",
         "welcomePage.buttonBackground":                            "#202020"
     }
 }
