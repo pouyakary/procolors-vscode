@@ -1,6 +1,7 @@
 # What is Changed
 
 ## 31.4.0
+- **Improvement!** &mdash; Better light and dark icon colors.
 - **Improvement!** &mdash; Light theme hover widget border color improvement.
 
 ## 31.3.0
