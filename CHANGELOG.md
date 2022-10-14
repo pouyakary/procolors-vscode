@@ -2,6 +2,7 @@
 
 ## 31.4.0
 - **Improvement!** &mdash; Better pannel inactive title color for the dark theme.
+- **Improvement!** &mdash; Better dark theme icon colors.
 
 ## 31.3.0
 - **Improvement!** &mdash; Better light and dark icon colors.
