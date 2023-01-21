@@ -1,5 +1,12 @@
 # What is Changed
 
+## 32.0.0
+- **Improvement!** &mdash; New Comment Color for the Light Theme: The comment color of the Pro Colors has always been an iconic part of its identity and therefore hard to change, but it was hard for the eye to see and from this version a new color that is really easy on the eye and still in harmony with the theme is presented. Hope you like it as much as I do (and make sure to give it a little bit of time to become natural to you.)
+
+- **Improvement!** &mdash; New Panel Color for the Light Theme: Like the comment color, the panel had a look that was too much similar to th editor and that made it hard to distinguish. From this version the panel is painted in blue which is really easy on the eye and hopefully beautiful.
+
+- **Improvement!** &mdash; The Toolbar icons are now blue... (this is an ongoing pain to make beautiful)
+
 ## 31.4.0
 - **Improvement!** &mdash; Better pannel inactive title color for the dark theme.
 - **Improvement!** &mdash; Better dark theme icon colors.
