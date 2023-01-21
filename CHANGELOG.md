@@ -7,6 +7,12 @@
 
 - **Improvement!** &mdash; The Toolbar icons are now blue... (this is an ongoing pain to make beautiful)
 
+- **Improvement!** &mdash; Objective-C Support Improvements.
+- **Improvement!** &mdash; C++ Support Improvements.
+- **Improvement!** &mdash; Dart Support Improvements.
+- **Improvement!** &mdash; PHP Support Improvements.
+- **Improvement!** &mdash; CoffeeScript Support Improvements.
+
 ## 31.4.0
 - **Improvement!** &mdash; Better pannel inactive title color for the dark theme.
 - **Improvement!** &mdash; Better dark theme icon colors.

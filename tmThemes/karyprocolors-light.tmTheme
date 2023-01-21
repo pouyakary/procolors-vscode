@@ -1973,6 +1973,171 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Cpp Import Title</string>
+            <key>scope</key>
+            <string>variable.other.macro.argument.cpp</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Header File Type</string>
+            <key>scope</key>
+            <string>entity.name.type.parameter.cpp</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Header File Spread Operator</string>
+            <key>scope</key>
+            <string>meta.function.definition.parameters</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Header File Pointer</string>
+            <key>scope</key>
+            <string>storage.modifier.pointer.cpp</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Objective-C Everything</string>
+            <key>scope</key>
+            <string>meta.block.objc, source.objc</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3778B7</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Objective-C Keyword</string>
+            <key>scope</key>
+            <string>keyword.operator.objc</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C94824</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Objective-C Types</string>
+            <key>scope</key>
+            <string>storage.type.objc, storage.type.built-in.objc, support.type.cocoa.objc, entity.name.type.objc, support.type.cocoa.leopard.objc, meta.argument-type.objc, storage.type.built-in.primitive.objc</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Objective-C Meta Protocol List</string>
+            <key>scope</key>
+            <string>meta.protocol-list.objc</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C94824</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Objective-C Meta Function</string>
+            <key>scope</key>
+            <string>meta.function.objc</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#1A1A1A</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Objective-C Meta Return Type</string>
+            <key>scope</key>
+            <string>meta.return-type.objc</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Objective-C String Interpolation Placeholder</string>
+            <key>scope</key>
+            <string>constant.other.placeholder.objc</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Objective-C Access Operator</string>
+            <key>scope</key>
+            <string>punctuation.separator.pointer-access.objc</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#C94824</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Objective-C Keyboard Accessors</string>
+            <key>scope</key>
+            <string>keyword.operator.objc</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Objective-C Constants</string>
+            <key>scope</key>
+            <string>constant.other.variable.mac-classic.objc</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#3778B7</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>Objective-C Dot Access</string>
+            <key>scope</key>
+            <string>punctuation.separator.dot-access.objc</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#1A1A1A</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Rust Plain Source</string>
             <key>scope</key>
             <string>source.rust</string>
@@ -2486,6 +2651,17 @@
             <dict>    
                 <key>foreground</key>
                 <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
+            <string>CoffeeScript Delete Keyword</string>
+            <key>scope</key>
+            <string>keyword.operator.delete.coffee</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#B052A1</string>
             </dict>
         </dict>
         <dict>    
@@ -3348,6 +3524,17 @@
         </dict>
         <dict>    
             <key>name</key>
+            <string>Dart Void Keyword</string>
+            <key>scope</key>
+            <string>storage.type.primitive.void.dart</string>
+            <key>settings</key>
+            <dict>    
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>    
+            <key>name</key>
             <string>Dart Type Parameter</string>
             <key>scope</key>
             <string>entity.name.type.typeparameter.dart</string>
@@ -4142,7 +4329,7 @@
             <key>name</key>
             <string>Punctuations</string>
             <key>scope</key>
-            <string>bracket.php, keyword.operator.type.annotation.ts, meta.brace, meta.brace.angle.ts, meta.brace.round.dart, meta.declaration.exports.haskell, meta.declaration.exports.purescript, meta.embedded.expression.jsx, meta.embedded.expression.tsx, meta.namespace.declaration.ts, meta.property-list.scss, punctuation.accessor.v, punctuation.brackets.angle.rust, punctuation.brackets.curly.rust, punctuation.brackets.round.rust, punctuation.brackets.square.rust, punctuation.comma.dart, punctuation.comma.rust, punctuation.cpp, punctuation.definition.arguments.begin.bracket.round.coffee, punctuation.definition.arguments.begin.python, punctuation.definition.arguments.end.bracket.round.coffee, punctuation.definition.arguments.end.python, punctuation.definition.array.begin.applescript, punctuation.definition.array.begin.bracket.square.coffee, punctuation.definition.array.end.applescript, punctuation.definition.array.end.bracket.square.coffee, punctuation.definition.begin.bracket.curly.go, punctuation.definition.begin.bracket.round.go, punctuation.definition.begin.bracket.square.c, punctuation.definition.begin.bracket.square.v, punctuation.definition.binding-pattern.array.js, punctuation.definition.binding-pattern.array.ts, punctuation.definition.binding-pattern.array.tsx, punctuation.definition.binding-pattern.object.js, punctuation.definition.binding-pattern.object.jsx, punctuation.definition.binding-pattern.object.ts, punctuation.definition.binding-pattern.object.tsx, punctuation.definition.binding-pattern.object.tsx, punctuation.definition.block, punctuation.definition.block.dart, punctuation.definition.bracket.curly.begin.v, punctuation.definition.bracket.curly.end.v, punctuation.definition.bracket.round.begin.v, punctuation.definition.bracket.round.end.v, punctuation.definition.bracket.square.begin.v, punctuation.definition.bracket.square.end.v, punctuation.definition.bracket.square.go, punctuation.definition.constant.crystal, punctuation.definition.destructuring.begin.bracket.curly.coffee, punctuation.definition.destructuring.end.bracket.curly.coffee, punctuation.definition.dict.begin.python, punctuation.definition.dict.end.python, punctuation.definition.end.bracket.curly.go, punctuation.definition.end.bracket.round.go, punctuation.definition.end.bracket.square.c, punctuation.definition.end.bracket.square.v, punctuation.definition.entity.begin.bracket.square.css, punctuation.definition.entity.end.bracket.square.css, punctuation.definition.imports.begin.bracket.round.go, punctuation.definition.imports.end.bracket.round.go, punctuation.definition.inheritance.begin.python, punctuation.definition.inheritance.end.python, punctuation.definition.list.begin.python, punctuation.definition.list.end.python, punctuation.definition.parameters, punctuation.definition.section.case-statement.tsx, punctuation.definition.typeparameters.begin.dart, punctuation.definition.typeparameters.begin.ts, punctuation.definition.typeparameters.begin.tsx, punctuation.definition.typeparameters.end.dart, punctuation.definition.typeparameters.end.ts, punctuation.definition.typeparameters.end.tsx, punctuation.definition.variables.begin.bracket.round.go, punctuation.definition.variables.end.bracket.round.go, punctuation.dot.dart, punctuation.fish, punctuation.go, punctuation.haskell, punctuation.other.colon.go, punctuation.other.comma.go, punctuation.other.period.go, punctuation.parenthesis.begin.python, punctuation.parenthesis.begin.python, punctuation.parenthesis.end.python, punctuation.section.arguments.begin.bracket.round.c, punctuation.section.arguments.begin.bracket.round.function.call.cpp, punctuation.section.arguments.end.bracket.round.c, punctuation.section.arguments.end.bracket.round.function.call.cpp, punctuation.section.array.crystal, punctuation.section.block.begin.bracket.curly.c, punctuation.section.block.begin.bracket.curly.cpp, punctuation.section.block.end.bracket.curly.c, punctuation.section.block.end.bracket.curly.cpp, punctuation.section.class.begin.python, punctuation.section.function.begin.bracket.round.css, punctuation.section.function.begin.python, punctuation.section.function.crystal, punctuation.section.function.end.bracket.round.css, punctuation.section.group.applescript, punctuation.section.parameters.begin.bracket.round.c, punctuation.section.parameters.end.bracket.round.c, punctuation.section.parens.begin.bracket.round.c, punctuation.section.parens.end.bracket.round.c, punctuation.section.scope.crystal, punctuation.semi.rust, punctuation.separator.arguments.python, punctuation.separator.colon.python, punctuation.separator.comma, punctuation.separator.comma.makefile, punctuation.separator.dart, punctuation.separator.delimiter.c, punctuation.separator.delimiter.coffee, punctuation.separator.delimiter.comma.cpp, punctuation.separator.dict.python, punctuation.separator.dot-access.c, punctuation.separator.element.python, punctuation.separator.key-value.css, punctuation.separator.list.comma.css, punctuation.separator.method.crystal, punctuation.separator.method.period.coffee, punctuation.separator.other.crystal, punctuation.separator.parameter.ts, punctuation.separator.parameter.tsx, punctuation.separator.parameters.python, punctuation.separator.period.python, punctuation.separator.property.period.coffee, punctuation.terminator.dart, punctuation.terminator.go, punctuation.terminator.statement, punctuation.terminator.statement.c</string>
+            <string>bracket.php, keyword.operator.type.annotation.ts, meta.brace, meta.brace.angle.ts, meta.brace.round.dart, meta.declaration.exports.haskell, meta.declaration.exports.purescript, meta.embedded.expression.jsx, meta.embedded.expression.tsx, meta.namespace.declaration.ts, meta.property-list.scss, punctuation.accessor.v, punctuation.brackets.angle.rust, punctuation.brackets.curly.rust, punctuation.brackets.round.rust, punctuation.brackets.square.rust, punctuation.comma.dart, punctuation.comma.rust, punctuation.cpp, punctuation.definition.arguments.begin.bracket.round.coffee, punctuation.definition.arguments.begin.python, punctuation.definition.arguments.end.bracket.round.coffee, punctuation.definition.arguments.end.python, punctuation.definition.array.begin.applescript, punctuation.definition.array.begin.bracket.square.coffee, punctuation.definition.array.end.applescript, punctuation.definition.array.end.bracket.square.coffee, punctuation.definition.begin.bracket.curly.go, punctuation.definition.begin.bracket.round.go, punctuation.definition.begin.bracket.square.c, punctuation.definition.begin.bracket.square.v, punctuation.definition.binding-pattern.array.js, punctuation.definition.binding-pattern.array.ts, punctuation.definition.binding-pattern.array.tsx, punctuation.definition.binding-pattern.object.js, punctuation.definition.binding-pattern.object.jsx, punctuation.definition.binding-pattern.object.ts, punctuation.definition.binding-pattern.object.tsx, punctuation.definition.binding-pattern.object.tsx, punctuation.definition.block, punctuation.definition.block.dart, punctuation.definition.bracket.curly.begin.v, punctuation.definition.bracket.curly.end.v, punctuation.definition.bracket.round.begin.v, punctuation.definition.bracket.round.end.v, punctuation.definition.bracket.square.begin.v, punctuation.definition.bracket.square.end.v, punctuation.definition.bracket.square.go, punctuation.definition.constant.crystal, punctuation.definition.destructuring.begin.bracket.curly.coffee, punctuation.definition.destructuring.end.bracket.curly.coffee, punctuation.definition.dict.begin.python, punctuation.definition.dict.end.python, punctuation.definition.end.bracket.curly.go, punctuation.definition.end.bracket.round.go, punctuation.definition.end.bracket.square.c, punctuation.definition.end.bracket.square.v, punctuation.definition.entity.begin.bracket.square.css, punctuation.definition.entity.end.bracket.square.css, punctuation.definition.imports.begin.bracket.round.go, punctuation.definition.imports.end.bracket.round.go, punctuation.definition.inheritance.begin.python, punctuation.definition.inheritance.end.python, punctuation.definition.list.begin.python, punctuation.definition.list.end.python, punctuation.definition.parameters, punctuation.definition.section.case-statement.tsx, punctuation.definition.typeparameters.begin.dart, punctuation.definition.typeparameters.begin.ts, punctuation.definition.typeparameters.begin.tsx, punctuation.definition.typeparameters.end.dart, punctuation.definition.typeparameters.end.ts, punctuation.definition.typeparameters.end.tsx, punctuation.definition.variables.begin.bracket.round.go, punctuation.definition.variables.end.bracket.round.go, punctuation.dot.dart, punctuation.fish, punctuation.go, punctuation.haskell, punctuation.other.colon.go, punctuation.other.comma.go, punctuation.other.period.go, punctuation.parenthesis.begin.python, punctuation.parenthesis.begin.python, punctuation.parenthesis.end.python, punctuation.section.arguments.begin.bracket.round.c, punctuation.section.arguments.begin.bracket.round.function.call.cpp, punctuation.section.arguments.end.bracket.round.c, punctuation.section.arguments.end.bracket.round.function.call.cpp, punctuation.section.array.crystal, punctuation.section.block.begin.bracket.curly.c, punctuation.section.block.begin.bracket.curly.cpp, punctuation.section.block.begin.bracket.curly.objc, punctuation.section.block.end.bracket.curly.c, punctuation.section.block.end.bracket.curly.cpp, punctuation.section.block.end.bracket.curly.objc, punctuation.section.class.begin.python, punctuation.section.function.begin.bracket.round.css, punctuation.section.function.begin.python, punctuation.section.function.crystal, punctuation.section.function.end.bracket.round.css, punctuation.section.group.applescript, punctuation.section.parameters.begin.bracket.round.c, punctuation.section.parameters.end.bracket.round.c, punctuation.section.parens.begin.bracket.round.c, punctuation.section.parens.begin.bracket.round.objc, punctuation.section.parens.end.bracket.round.c, punctuation.section.parens.end.bracket.round.objc, punctuation.section.scope.begin.objc, punctuation.section.scope.crystal, punctuation.section.scope.end.objc, punctuation.semi.rust, punctuation.separator.arguments.python, punctuation.separator.colon.python, punctuation.separator.comma, punctuation.separator.comma.makefile, punctuation.separator.dart, punctuation.separator.delimiter.c, punctuation.separator.delimiter.coffee, punctuation.separator.delimiter.comma.cpp, punctuation.separator.dict.python, punctuation.separator.dot-access.c, punctuation.separator.element.python, punctuation.separator.key-value.css, punctuation.separator.list.comma.css, punctuation.separator.method.crystal, punctuation.separator.method.period.coffee, punctuation.separator.other.crystal, punctuation.separator.parameter.ts, punctuation.separator.parameter.tsx, punctuation.separator.parameters.python, punctuation.separator.period.python, punctuation.separator.property.period.coffee, punctuation.terminator.dart, punctuation.terminator.go, punctuation.terminator.statement, punctuation.terminator.statement.c, punctuation.section.parameters.begin.bracket.round.objc, punctuation.section.parameters.end.bracket.round.objc, punctuation.definition.type.begin.objc, punctuation.definition.type.end.objc, punctuation.section.arguments.begin.bracket.round.objc, punctuation.section.arguments.end.bracket.round.objc, punctuation.definition.entity.other.inherited-class.objc, punctuation.objc, punctuation.separator.delimiter.objc</string>
             <key>settings</key>
             <dict>    
                 <key>foreground</key>
