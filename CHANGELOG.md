@@ -1,5 +1,8 @@
 # What is Changed
 
+## 31.1.0
+- **Hot Fix!** &mdash; Hot fix on the icon colors. Seems that blue is not awesome.
+
 ## 32.0.0
 - **Improvement!** &mdash; New Comment Color for the Light Theme: The comment color of the Pro Colors has always been an iconic part of its identity and therefore hard to change, but it was hard for the eye to see and from this version a new color that is really easy on the eye and still in harmony with the theme is presented. Hope you like it as much as I do (and make sure to give it a little bit of time to become natural to you.)
 
