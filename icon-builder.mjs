@@ -2,7 +2,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import * as virtuous from '@kary/virtuous';
 
-// ─── Lists ──────────────────────────────────────────────────────────────────────
+// ─── Lists ─────────────────────────────────────────────────────────────── ✣ ─
 
 const byLanguageIds = {
     document: [
@@ -133,7 +133,7 @@ const byFileExtensions = {
     ]
 }
 
-// ─── Dictionary To Json ─────────────────────────────────────────────────────────
+// ─── Dictionary To Json ────────────────────────────────────────────────── ✣ ─
 
 function mapDictionaryToJSON(dictionary, appearance) {
     function sortAndPurifyTheList(list) {
@@ -151,7 +151,7 @@ function mapDictionaryToJSON(dictionary, appearance) {
     return results
 }
 
-// ─── Main Json Generator ────────────────────────────────────────────────────────
+// ─── Main Json Generator ───────────────────────────────────────────────── ✣ ─
 
 function generateIconManifestJSON() {
     return JSON.stringify({
@@ -218,7 +218,7 @@ function generateIconManifestJSON() {
     });
 }
 
-// ─── Main Part ──────────────────────────────────────────────────────────────────
+// ─── Main Part ─────────────────────────────────────────────────────────── ✣ ─
 
 main(); function main() {
     const pathToIconManifest =
