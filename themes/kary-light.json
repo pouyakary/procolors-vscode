@@ -184,6 +184,8 @@
         "peekViewTitle.background":                                "#EEEEEE",
         "peekViewTitleDescription.foreground":                     "#3778B7",
         "peekViewTitleLabel.foreground":                           "#B052A1",
+        "profileBadge.background":                                 "#B052A1",
+        "profileBadge.foreground":                                 "#FAE2F5",
         "progressBar.background":                                  "#C94824",
         "sash.hoverBorder":                                        "#B052A1",
         "scrollbar.shadow":                                        "#3777B741",

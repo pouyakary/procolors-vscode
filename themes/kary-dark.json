@@ -167,6 +167,8 @@
         "peekViewTitleLabel.foreground":                           "#DC8564",
         "pickerGroup.border":                                      "#282828",
         "pickerGroup.foreground":                                  "#7DA76F",
+        "profileBadge.background":                                 "#392620",
+        "profileBadge.foreground":                                 "#D38569",
         "progressBar.background":                                  "#7DA76F",
         "scrollbarSlider.activeBackground":                        "#BA944F9B",
         "scrollbarSlider.background":                              "#BA944F54",
