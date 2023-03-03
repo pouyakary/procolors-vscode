@@ -1,5 +1,8 @@
 # What is Changed
 
+## 32.3.0
+- **New!** &mdash; Profile badge colors added
+
 ## 31.1.0
 - **Hot Fix!** &mdash; Hot fix on the icon colors. Seems that blue is not awesome.
 
