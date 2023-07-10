@@ -135,7 +135,7 @@
         "extensionIcon.starForeground":                            "#6D43C2",
         "extensionIcon.verifiedForeground":                        "#6D43C2",
         "focusBorder":                                             "#3778B7",
-        "icon.foreground":                                         "#C94824",
+        "icon.foreground":                                         "#3778B7",
         "input.background":                                        "#E2EEFA",
         "input.border":                                            "#00000000",
         "input.foreground":                                        "#3778B7",
