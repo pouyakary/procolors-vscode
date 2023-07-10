@@ -25,6 +25,7 @@
         "commandCenter.foreground":                                "#EEEEEE",
         "contrastBorder":                                          "#FFFFFF10",
         "dart.closingLabels":                                      "#819DC26F",
+        "dart.flutterUiGuides":                                    "#30343A",
         "debugConsole.errorForeground":                            "#D38569",
         "debugConsole.infoForeground":                             "#7DA76E",
         "debugConsole.sourceForeground":                           "#7DA76E",

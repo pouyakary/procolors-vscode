@@ -17,8 +17,9 @@ but it doesn't stop there.
 - **Massive Change!** &mdash; New Light Background Color!
 - **Massive Change!** &mdash; New Light Foreground Color!
 - **Massive Change!** &mdash; ProColors now Supports the Full Semantic Token Standard! This is a huge improvement over most languages.
-- **New!** &mdash; Support for the Colorization of the Debug View.
-- **New!** &mdash; Support for the Colorization of the Debug Console.
+- **New!** &mdash; Support for the colorization of the Debug View.
+- **New!** &mdash; Support for the colorization of the Debug Console.
+- **New!** &mdash; Support for the colorization of Flutter extension's guides.
 - **Improvement!** &mdash; New Light Bracket Matching Colors!
 - **Improvement!** &mdash; More C++ Support including: Arithmetics, Pointer Accessors, Delete Array Bracket, Scope Resolution.
 - **Improvement!** &mdash; Storage Type Primitive Token support in Dart.
