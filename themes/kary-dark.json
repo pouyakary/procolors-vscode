@@ -70,6 +70,7 @@
         "editorBracketMatch.border":                               "#444444",
         "editorCursor.foreground":                                 "#16C6F7",
         "editorError.foreground":                                  "#D38569",
+        "editorGhostText.foreground":                              "#6B6B6B",
         "editorGroup.border":                                      "#282828",
         "editorGroup.dropBackground":                              "#1A1A1A",
         "editorGroupHeader.noTabsBackground":                      "#202020",
