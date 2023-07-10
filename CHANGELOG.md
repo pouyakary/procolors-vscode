@@ -1,5 +1,23 @@
 # What is Changed
 
+## 34.0.0 **Biggest Update Ever!**
+
+This is the biggest changes that has ever happened to this theme!
+For a long time I've heard people complaining about the bright background
+of the light theme. As you know, I create this theme for myself first and
+at some point, my eyes too, became tired of reading the comments on the light
+theme. So, I changed the comment colors in V32. But it didn't finish there.
+In this version I'm introducing two major changes to the theme: __New Background
+and Foreground Colors__. You may love it or resent it, but your eyes are going
+to thank me, believe me!
+
+These two updates are so big that deserved their own big major version bump,
+but it doesn't stop there.
+
+- **Massive Change!** &mdash; New Light Background Color!
+- **Massive Change!** &mdash; New Light Foreground Color!
+- **Improvement!** &mdash; New Light Bracket Matching Colors!
+
 ## 32.3.0
 - **New!** &mdash; Profile badge colors added
 
@@ -416,7 +434,7 @@ But the most significant ones are:
 ### 5.2.0
 - **Change!** &mdash; Strings are green these days...
 - **Change!** &mdash; The dark theme's background is lighted a bit to match the dark background of the vscode. This way it has more eye comfort.
-- **Issue #1** &mdash; Thanks to dear [Murriouz](https://github.com/Murriouz) a bug was reported about invalid code's rendering and it's not fixed.
+- **Issue [#1](https://github.com/pouyakary/procolors/issues/1)** &mdash; Thanks to dear [Murriouz](https://github.com/Murriouz) a bug was reported about invalid code's rendering and it's not fixed.
 - **Upcoming** &mdash; For the next release we'll be having Babel syntax support.
 
 ---
