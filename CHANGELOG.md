@@ -24,10 +24,12 @@ but it doesn't stop there.
 - **New!** &mdash; Custom colorization for Flutter extension's guides.
 - **New!** &mdash; Custom colorization for Comment View.
 - **Improvement!** &mdash; Once again a recolored menu for the light theme. (sorry...)
-- **Improvement!** &mdash; New Icon color for the light theme. (again...)
-- **Improvement!** &mdash; New Profile Badge Icon colors.
-- **Improvement!** &mdash; New Light Bracket Matching Colors!
-- **Improvement!** &mdash; New Progressbar Background Color!
+- **Improvement!** &mdash; New Light Icon color for the light theme. (again...)
+- **Improvement!** &mdash; New Light Profile Badge Icon colors.
+- **Improvement!** &mdash; New Light Bracket Matching colors.
+- **Improvement!** &mdash; New Light Progressbar background color.
+- **Improvement!** &mdash; New Light Progressbar background color.
+- **Improvement!** &mdash; New Light Widget Border color.
 - **Improvement!** &mdash; More C++ Support including: Arithmetics, Pointer Accessors, Delete Array Bracket, Scope Resolution.
 - **Improvement!** &mdash; Storage Type Primitive Token support in Dart.
 

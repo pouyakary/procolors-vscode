@@ -323,8 +323,9 @@
         "titleBar.activeForeground":                               "#858585",
         "titleBar.inactiveForeground":                             "#BABABA",
         "toolbar.activeBackground":                                "#EEEEEE",
-        "toolbar.hoverBackground":                                 "#FAE2E2",
+        "toolbar.hoverBackground":                                 "#3777B721",
         "tree.indentGuidesStroke":                                 "#C94824",
-        "widget.shadow":                                           "#EEEEEE"
+        "widget.border":                                           "#00000000",
+        "widget.shadow":                                           "#FFFFFF"
     }
 }
