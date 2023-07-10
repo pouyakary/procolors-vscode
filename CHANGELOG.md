@@ -22,6 +22,7 @@ but it doesn't stop there.
 - **New!** &mdash; Custom colorization for the Debug View.
 - **New!** &mdash; Custom colorization for the Debug Console.
 - **New!** &mdash; Custom colorization for Flutter extension's guides.
+- **New!** &mdash; Custom colorization for Comment View.
 - **Improvement!** &mdash; New Light Bracket Matching Colors!
 - **Improvement!** &mdash; More C++ Support including: Arithmetics, Pointer Accessors, Delete Array Bracket, Scope Resolution.
 - **Improvement!** &mdash; Storage Type Primitive Token support in Dart.
