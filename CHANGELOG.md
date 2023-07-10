@@ -17,9 +17,11 @@ but it doesn't stop there.
 - **Massive Change!** &mdash; New Light Background Color!
 - **Massive Change!** &mdash; New Light Foreground Color!
 - **Massive Change!** &mdash; ProColors now Supports the Full Semantic Token Standard! This is a huge improvement over most languages.
+- **New!** &mdash; Support for the Colorization of the Debug View.
 - **Improvement!** &mdash; New Light Bracket Matching Colors!
-- **New!** &mdash; More C++ Support including: Arithmetics, Pointer Accessors, Delete Array Bracket, Scope Resolution.
-- **New!** &mdash; Storage Type Primitive Token support in Dart.
+- **Improvement!** &mdash; More C++ Support including: Arithmetics, Pointer Accessors, Delete Array Bracket, Scope Resolution.
+- **Improvement!** &mdash; Storage Type Primitive Token support in Dart.
+
 
 ## 32.3.0
 - **New!** &mdash; Profile badge colors added
