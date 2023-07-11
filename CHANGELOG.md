@@ -1,5 +1,9 @@
 # What is Changed
 
+## 34.0.1
+
+This update includes hot fixes.
+
 ## 34.0.0 **Biggest Update Ever!**
 
 This is the biggest changes that has ever happened to this theme!
