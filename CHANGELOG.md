@@ -1,5 +1,13 @@
 # What is Changed
 
+## 34.1.0
+
+This update introduces yet a new foreground color. It was mentioned
+by [Zea](https://github.com/zea17)&mdash;give her a follow!&mdash;that
+the foreground color is the same as the comments and it makes you mistake
+them by each other. So this version offers an slightly better foreground
+color that you'll see in the markdown and the punctuations! Have fun!
+
 ## 34.0.1
 
 This update includes hot fixes.
