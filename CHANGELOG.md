@@ -1,8 +1,13 @@
 # What is Changed
 
+## 34.2.0
+
+- **New!** &mdash; Now the constant variables in JS/TS show up as green.
+- **Improvement!** &mdash; More foreground color changes and fixes
+
 ## 34.1.0
 
-This update introduces yet a new foreground color. It was mentioned
+- **Improvement!** &mdash; This update introduces yet a new foreground color. It was mentioned
 by [Zea](https://github.com/zea17)&mdash;give her a follow!&mdash;that
 the foreground color is the same as the comments and it makes you mistake
 them by each other. So this version offers an slightly better foreground
