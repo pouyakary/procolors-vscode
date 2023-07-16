@@ -1,5 +1,11 @@
 # What is Changed
 
+## 34.3.0
+
+Sorry! My deploy system was broken and it messed up your theme.
+Releasing this version was full of bad happenings, I hope you
+forgive it :(
+
 ## 34.2.0
 
 - **New!** &mdash; Now the constant variables in JS/TS show up as green.
