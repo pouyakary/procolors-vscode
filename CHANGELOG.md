@@ -6,10 +6,11 @@
 
 See you next year!
 
-- **Improved!** &mdash; Indentation Guides
-- **Improved!** &mdash; New Cursor colors.
-- **Improved!** &mdash; Activity bar badge foreground on the light theme.
-- **Improved!** &mdash; Comments Widget colors are improved.
+- **Improvement!** &mdash; Dark Theme Comments are now `#888888` instead of `#707070`.
+- **Improvement!** &mdash; Indentation Guides.
+- **Improvement!** &mdash; New Cursor colors.
+- **Improvement!** &mdash; Activity bar badge foreground on the light theme.
+- **Improvement!** &mdash; Comments Widget colors are improved.
 
 ## 34.3.0
 
