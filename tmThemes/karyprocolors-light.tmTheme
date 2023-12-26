@@ -253,6 +253,8 @@
             <dict>
                 <key>foreground</key>
                 <string>#C94824</string>
+                <key>fontStyle</key>
+                <string> bold</string>
             </dict>
         </dict>
         <dict>
@@ -308,6 +310,17 @@
             <dict>
                 <key>foreground</key>
                 <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Constants</string>
+            <key>scope</key>
+            <string>constant</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#428226</string>
             </dict>
         </dict>
         <dict>
@@ -1522,6 +1535,17 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>JavaScript/TypeScript Constants</string>
+            <key>scope</key>
+            <string>variable.other.constant</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#428226</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>TypeScript Namespace declaration</string>
             <key>scope</key>
             <string>meta.namespace.declaration.ts, meta.namespace.declaration.tsx</string>
@@ -2127,6 +2151,17 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>Go Interface Keyword</string>
+            <key>scope</key>
+            <string>keyword.interface.go</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Cpp Arithmetics</string>
             <key>scope</key>
             <string>keyword.operator.arithmetic.cpp</string>
@@ -2475,6 +2510,8 @@
             <dict>
                 <key>foreground</key>
                 <string>#A56416</string>
+                <key>fontStyle</key>
+                <string> bold</string>
             </dict>
         </dict>
         <dict>
@@ -4553,7 +4590,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#C94824</string>
+                <string>#428226</string>
             </dict>
         </dict>
         <dict>
@@ -4572,6 +4609,39 @@
             <string>V Optional Keyword</string>
             <key>scope</key>
             <string>keyword.operator.optional.v</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>V Arithmetic Operator</string>
+            <key>scope</key>
+            <string>keyword.operator.arithmetic.v</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#C94824</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>V Function Keyword</string>
+            <key>scope</key>
+            <string>keyword.fn.v</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#A56416</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>V Interpolated Variable</string>
+            <key>scope</key>
+            <string>variable.other.interpolated.v</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
