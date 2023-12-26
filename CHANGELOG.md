@@ -1,5 +1,16 @@
 # What is Changed
 
+## 🎄 34.4.0 🎄
+
+🎁 Happy holidays! 🥳 This is the last update for 2023, hope you have some great times around family and friends and that the next year be a great year full of joy, comfort, success and good times. 🎁
+
+See you next year!
+
+- **Improved!** &mdash; Indentation Guides
+- **Improved!** &mdash; New Cursor colors.
+- **Improved!** &mdash; Activity bar badge foreground on the light theme.
+- **Improved!** &mdash; Comments Widget colors are improved.
+
 ## 34.3.0
 
 Sorry! My deploy system was broken and it messed up your theme.
@@ -76,7 +87,7 @@ but it doesn't stop there.
 - **Improvement!** &mdash; CoffeeScript Support Improvements.
 
 ## 31.4.0
-- **Improvement!** &mdash; Better pannel inactive title color for the dark theme.
+- **Improvement!** &mdash; Better panel inactive title color for the dark theme.
 - **Improvement!** &mdash; Better dark theme icon colors.
 
 ## 31.3.0
@@ -106,7 +117,7 @@ but it doesn't stop there.
 ## 30.0.0
 - **New!** &mdash; Pro Colors now has it's very own icons! It's really pretty and you have to see it.
 
-- **New!** &mdash; Dart language support was always a plan. But it was not possible because of the grammar. I'm actually in [the process of rewriting the grammar](https://github.com/Dart-Code/Dart-Code/pull/4067) and the great [Danny Tuppeny](https://github.com/DanTup) is helping too. Once the upstream Dart Code extension recieves the updates, Pro Colors will be fully compatible and ready. This also includes support for Dart Code's Widget annotations. Dart is probably the best supported language after JavaScript/TypeScript now.
+- **New!** &mdash; Dart language support was always a plan. But it was not possible because of the grammar. I'm actually in [the process of rewriting the grammar](https://github.com/Dart-Code/Dart-Code/pull/4067) and the great [Danny Tuppeny](https://github.com/DanTup) is helping too. Once the upstream Dart Code extension receives the updates, Pro Colors will be fully compatible and ready. This also includes support for Dart Code's Widget annotations. Dart is probably the best supported language after JavaScript/TypeScript now.
 
 - **New!** &mdash; A Huge update on the Dark Theme. Sidebars and tab bar are updated with a darker color which you have to see for yourself. Focus colors and such in the trees are updated as well.
 
@@ -262,7 +273,7 @@ But the most significant ones are:
 ---
 
 ## 18.2.0
-- **New!** &mdash; Breadcrump color support added.
+- **New!** &mdash; Breadcrumb color support added.
 - **New!** &mdash; Active line color support added.
 - **New!** &mdash; A new icon :D.
 - **New!** &mdash; CSS Vendor specific properties are now supported.
@@ -272,7 +283,7 @@ But the most significant ones are:
 ---
 
 ## 18.0.0
-- **Change!** &mdash; What is better than a great new name? After the transition of the themes they were renamed and well let's agree that the name wasn't good right? It's now calld "Pro Colors" do you like it?
+- **Change!** &mdash; What is better than a great new name? After the transition of the themes they were renamed and well let's agree that the name wasn't good right? It's now called "Pro Colors" do you like it?
 - **New!** &mdash; Fish Shell language is now fully supported and I'm going to offer a new extension with even more token customizations
 - **New!** &mdash; GLSL Language is now fully supported!
 - **Fix!** &mdash; More and more CSS tokens are supported!
@@ -284,7 +295,7 @@ But the most significant ones are:
 ---
 
 ## 17.0.0
-- **New!** &mdash; The hell just got frozen as Pro Colors now offer icons! With this release you'll be able to pick one of the two icon themes fully hormonized and carefully aligned for this theme. They work great on both Light and Dark themes.
+- **New!** &mdash; The hell just got frozen as Pro Colors now offer icons! With this release you'll be able to pick one of the two icon themes fully harmonized and carefully aligned for this theme. They work great on both Light and Dark themes.
 - **New!** &mdash; Go Lang is now officially onboard of the first class supported languages!
 - **New!** &mdash; Hell got even more frozen because we now also support C++ first class! Many many goodies for C++ are included.
 
@@ -311,7 +322,7 @@ But the most significant ones are:
 ---
 
 ## 15.1.0
-- **New!** &mdash; This version has a new light theme called "Eye Light" which is basically the same as original Kary Light with a darker background for when you feel the light theme is tooo light!
+- **New!** &mdash; This version has a new light theme called "Eye Light" which is basically the same as original Kary Light with a darker background for when you feel the light theme is too light!
 - **Change!** &mdash; Much better panel view coloring.
 - **Change!** &mdash; Much much better CSS variable coloring.
 - **Change!** &mdash; JS Docs are improved.
@@ -336,7 +347,7 @@ But the most significant ones are:
 ---
 
 ## 14.1.0
-- **Fix!** &mdash; We forgot to have a right peek view in the dark theme which we are very sorry for. That must have made all of you guys very upset. In hope that you'll forgive us there is now a very cool peek view in the dark themes and we hope you like it!
+- **Fix!** &mdash; We forgot to have a right peek view in the dark theme which we are very sorry for. That must have made all of you folks very upset. In hope that you'll forgive us there is now a very cool peek view in the dark themes and we hope you like it!
 - **New!** &mdash; We'll be supporting haXe language from this version up.
 
 ---
@@ -450,7 +461,7 @@ But the most significant ones are:
 - **Fix!** &mdash; Types and type casts in TypeScript and JavaScript are fixed.
 - **Fix!** &mdash; Namespace color is fixed.
 - **Fix!** &mdash; Coloring of function parameter types are fixed
-- **Upcoming!** &mdash; As you know with the new grammar of Visual Studio Code 1.7 we now have functions in everywhere colored as red. This is due to a limitation of the grammar. We have [opend a pull request](https://github.com/Microsoft/TypeScript-TmLanguage/pull/362) to address the problem and provide a solution. We're hoping to have it fixed in the next versions of visual studio code if possible.
+- **Upcoming!** &mdash; As you know with the new grammar of Visual Studio Code 1.7 we now have functions in everywhere colored as red. This is due to a limitation of the grammar. We have [opened a pull request](https://github.com/Microsoft/TypeScript-TmLanguage/pull/362) to address the problem and provide a solution. We're hoping to have it fixed in the next versions of visual studio code if possible.
 
 ---
 
