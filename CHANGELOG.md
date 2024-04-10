@@ -1,5 +1,13 @@
 # What is Changed
 
+## 35.0.0
+
+Due to the recent announcement of Section Headers in the Minimap, this version mostly tries to improve the minimap.
+
+- **New!** &mdash; New specific colors for the minimap for maximum readability, beauty and working great with section header labels.
+- **New!** &mdash; Support for the colors of the [GitHub Pull Requests Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github). (I'm also contributing to the project to make it more customizable and good to the themes.)
+- **Hot Fix!** &mdash; The notification link colors where somehow messed up and they are now good!
+
 ## 🎄 34.4.0 🎄
 
 🎁 Happy holidays! 🥳 This is the last update for 2023, hope you have some great times around family and friends and that the next year be a great year full of joy, comfort, success and good times. 🎁
