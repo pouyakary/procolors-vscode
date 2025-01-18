@@ -1,11 +1,11 @@
 {
     "description":     "A suite of carefully harmonized themes with a professional feel",
     "displayName":     "Kary Pro Colors",
-    "homepage":        "https://kary.us",
+    "homepage":        "https://pouyakary.org",
     "icon":            "icon.png",
     "name":            "theme-karyfoundation-themes",
     "publisher":       "karyfoundation",
-    "version":         "35.0.0",
+    "version":         "35.0.1",
     "galleryBanner": {
         "color":       "#f7f7f7",
         "theme":       "light"

@@ -292,7 +292,7 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>null</string>
+            <string>RegExp Operator</string>
             <key>scope</key>
             <string>regexp.operator.keyword.meta, regex.operator.keyboard.meta</string>
             <key>settings</key>
@@ -1700,6 +1700,17 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>RegExp Character Class</string>
+            <key>scope</key>
+            <string>constant.other.character-class.set.regexp</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D38569</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Keyof Keyword</string>
             <key>scope</key>
             <string>keyword.operator.expression.keyof</string>
@@ -2162,6 +2173,17 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>Go Package</string>
+            <key>scope</key>
+            <string>entity.name.type.package.go</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D38569</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Cpp Arithmetics</string>
             <key>scope</key>
             <string>keyword.operator.arithmetic.cpp</string>
@@ -2488,6 +2510,50 @@
             <dict>
                 <key>foreground</key>
                 <string>#909090</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Swift Attribute</string>
+            <key>scope</key>
+            <string>attribute.swift, storage.modifier.attribute.swift</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#819DC2</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Swift Types</string>
+            <key>scope</key>
+            <string>type.swift, meta.parameter-clause.swift, entity.name.type.swift, support.type.swift, meta.function-result.swift, meta.definition.type.body.swift, meta.function-call.swift</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#7DA76F</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Swift Inheritance</string>
+            <key>scope</key>
+            <string>meta.inheritance-clause.swift</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#819DC2</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Swift Getter Property</string>
+            <key>scope</key>
+            <string>meta.definition.type.body.swift</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#819DC2</string>
             </dict>
         </dict>
         <dict>
@@ -2857,9 +2923,20 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>C# New Keyword</string>
+            <key>scope</key>
+            <string>keyword.operator.expression.new.cs</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>C# Variables</string>
             <key>scope</key>
-            <string>entity.name.variable.field.cs, entity.name.variable.parameter.cs, entity.name.variable.local.cs, entity.name.variable.tuple-element.cs</string>
+            <string>entity.name.variable.field.cs, entity.name.variable.parameter.cs, entity.name.variable.local.cs, entity.name.variable.tuple-element.cs, variable.other.object.cs, variable.cs</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -2870,7 +2947,7 @@
             <key>name</key>
             <string>C# Types</string>
             <key>scope</key>
-            <string>keyword.type.cs, entity.name.variable.event.cs, storage.type.cs</string>
+            <string>keyword.type.cs, entity.name.variable.event.cs, storage.type.cs, entity.name.type.cs</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -2941,6 +3018,39 @@
             <dict>
                 <key>foreground</key>
                 <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>C# Void</string>
+            <key>scope</key>
+            <string>keyword.type.void.cs, storage.type.void.cs</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>C# Const Keywoard</string>
+            <key>scope</key>
+            <string>storage.modifier.const.cs</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>C# Arithmetic Operator</string>
+            <key>scope</key>
+            <string>keyword.operator.arithmetic.cs</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D38569</string>
             </dict>
         </dict>
         <dict>
@@ -3718,6 +3828,116 @@
             <string>Haskell Type Classes</string>
             <key>scope</key>
             <string>keyword.other.class.haskell, keyword.other.instance.haskell</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Elm Type Keyword</string>
+            <key>scope</key>
+            <string>keyword.type.elm, keyword.type-alias.elm</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Elm Type Name</string>
+            <key>scope</key>
+            <string>storage.type.elm</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#7DA76F</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Elm Record Field</string>
+            <key>scope</key>
+            <string>entity.name.record.field.elm</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D38569</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Elm Value</string>
+            <key>scope</key>
+            <string>meta.value.elm</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#819DC2</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Elm Support Module</string>
+            <key>scope</key>
+            <string>support.module.elm</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Elm Control Keywords</string>
+            <key>scope</key>
+            <string>keyword.control.elm</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Elm Other keywords</string>
+            <key>scope</key>
+            <string>keyword.other.elm</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Elm Constant Unit</string>
+            <key>scope</key>
+            <string>constant.unit.elm</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Elm Record name</string>
+            <key>scope</key>
+            <string>record.name.elm</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#819DC2</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Elm Record Accessor</string>
+            <key>scope</key>
+            <string>entity.name.record.field.accessor.elm</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -4518,6 +4738,39 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>PureScript Keyword Operators</string>
+            <key>scope</key>
+            <string>keyword.operator.purescript</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D38569</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>PureScript Tags</string>
+            <key>scope</key>
+            <string>entity.name.tag.purescript</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>PureScript Infix Function</string>
+            <key>scope</key>
+            <string>entity.name.function.infix.purescript</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Ohm Entity Name</string>
             <key>scope</key>
             <string>entity.name.type</string>
@@ -4646,6 +4899,28 @@
             <dict>
                 <key>foreground</key>
                 <string>#BC9550</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Typst Heading</string>
+            <key>scope</key>
+            <string>markup.heading.typst</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#B98EB2</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Typst Emphasis</string>
+            <key>scope</key>
+            <string>emph</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#819DC2</string>
             </dict>
         </dict>
         <dict>
