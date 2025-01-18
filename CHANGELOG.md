@@ -1,9 +1,13 @@
 # What is Changed
 
-## 35.5.0
+## 36.0.0
 
 - **Improvement!** &mdash; Much better C# support.
-- **New!** &mdash; Minimap Colors
+- **New!** &mdash; Minimap Colors.
+- **New!** &mdash; Source Code Manager Colors.
+- **New!** &mdash; Source Graph Colors.
+- **New!** &mdash; Command Center Debugging Background Color.
+- **Improvement!** &mdash; Better Dark Mode Light Blob Color.
 
 ## 35.0.0
 
