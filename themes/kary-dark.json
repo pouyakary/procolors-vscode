@@ -149,6 +149,7 @@
         "menu.selectionBorder":                                    "#BA944F",
         "menu.selectionForeground":                                "#B7785B",
         "menu.separatorBackground":                                "#252525",
+        "minimap.background":                                      "#171717",
         "minimap.errorHighlight":                                  "#ff000070",
         "minimap.infoHighlight":                                   "#829DC270",
         "minimap.selectionHighlight":                              "#2b7cb651",
