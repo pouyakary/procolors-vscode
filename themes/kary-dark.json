@@ -109,6 +109,7 @@
         "errorLens.warningBackground":                             "#1D442B60",
         "errorLens.warningForeground":                             "#7DA76E",
         "focusBorder":                                             "#7DA76F",
+        "git.blame.editorDecorationForeground":                    "#696969",
         "gitDecoration.addedResourceForeground":                   "#8E9CB9",
         "gitDecoration.conflictingResourceForeground":             "#D38569",
         "gitDecoration.deletedResourceForeground":                 "#D38569",

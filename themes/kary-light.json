@@ -135,6 +135,7 @@
         "extensionIcon.starForeground":                            "#6D43C2",
         "extensionIcon.verifiedForeground":                        "#6D43C2",
         "focusBorder":                                             "#3778B7",
+        "git.blame.editorDecorationForeground":                    "#9aa9b8",
         "icon.foreground":                                         "#3778B7",
         "input.background":                                        "#E2EEFA",
         "input.border":                                            "#00000000",
