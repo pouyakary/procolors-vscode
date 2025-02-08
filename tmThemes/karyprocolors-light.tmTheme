@@ -657,6 +657,17 @@
             </dict>
             <dict>
                 <key>name</key>
+                <string>Tag Assignment Keyword</string>
+                <key>scope</key>
+                <string>meta.tag.attributes keyword.operator.assignment</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#65758D</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
                 <string>HTML String</string>
                 <key>scope</key>
                 <string>string.quoted.single.html, string.quoted.double.html, string.html</string>
@@ -2988,7 +2999,8 @@
                 <key>name</key>
                 <string>C# Type Keywords</string>
                 <key>scope</key>
-                <string>keyword.other.event.cs, keyword.other.delegate.cs, keyword.other.enum.cs</string>
+                <string>keyword.other.event.cs, keyword.other.delegate.cs, keyword.other.enum.cs,
+                    storage.type.enum.cs</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
@@ -3105,6 +3117,88 @@
                 <dict>
                     <key>foreground</key>
                     <string>#428226</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>C# Type</string>
+                <key>scope</key>
+                <string>keyword.type.bool.cs, keyword.type.char.cs, keyword.type.string.cs,
+                    keyword.type.byte.cs, keyword.type.sbyte.cs, keyword.type.int.cs,
+                    keyword.type.uint.cs, keyword.type.short.cs, keyword.type.ushort.cs,
+                    keyword.type.long.cs, keyword.type.ulong.cs, keyword.type.double.cs,
+                    keyword.type.float.cs, keyword.type.decimal.cs,
+                    entity.name.type.type-parameter.cs</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#428226</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>C# This</string>
+                <key>scope</key>
+                <string>storage.modifier.this.cs</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#428226</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>C# Documentation Tag</string>
+                <key>scope</key>
+                <string>punctuation.definition.tag.cs, entity.name.tag.localname.cs</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#3778B7</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>C# Class Colon</string>
+                <key>scope</key>
+                <string>punctuation.separator.colon.cs</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#A56416</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>C# Base</string>
+                <key>scope</key>
+                <string>variable.language.base.cs</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#B052A1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>C# Get/Set</string>
+                <key>scope</key>
+                <string>storage.type.accessor.get.cs, storage.type.accessor.set.cs</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#C94824</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>C# Storage Operators</string>
+                <key>scope</key>
+                <string>storage.modifier.out.cs, storage.modifier.params.cs, storage.modifier.ref.cs</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#B052A1</string>
                 </dict>
             </dict>
             <dict>
@@ -5110,9 +5204,11 @@
                     punctuation.definition.list.end.python, punctuation.definition.parameters,
                     punctuation.definition.section.case-statement.tsx,
                     punctuation.definition.type.begin.objc, punctuation.definition.type.end.objc,
+                    punctuation.definition.typeparameters.begin.cs,
                     punctuation.definition.typeparameters.begin.dart,
                     punctuation.definition.typeparameters.begin.ts,
                     punctuation.definition.typeparameters.begin.tsx,
+                    punctuation.definition.typeparameters.end.cs,
                     punctuation.definition.typeparameters.end.dart,
                     punctuation.definition.typeparameters.end.ts,
                     punctuation.definition.typeparameters.end.tsx,
@@ -5141,7 +5237,8 @@
                     punctuation.section.block.end.bracket.curly.c,
                     punctuation.section.block.end.bracket.curly.cpp,
                     punctuation.section.block.end.bracket.curly.objc,
-                    punctuation.section.class.begin.python,
+                    punctuation.section.class.begin.python, punctuation.section.embedded.begin.tsx,
+                    punctuation.section.embedded.end.tsx,
                     punctuation.section.function.begin.bracket.round.css,
                     punctuation.section.function.begin.python, punctuation.section.function.crystal,
                     punctuation.section.function.end.bracket.round.css,
