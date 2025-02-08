@@ -1,6 +1,6 @@
 # What is Changed
 
-## 36.2.0
+## 36.3.0
 
 More fixes on C# support based on [@zea17](https://github.com/zea17)'s feedback
 to the `36.0.0`. These are basically:
