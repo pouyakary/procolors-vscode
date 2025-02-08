@@ -1,8 +1,22 @@
 # What is Changed
 
+## 36.2.0
+
+More fixes on C# support based on [@zea17](https://github.com/zea17)'s feedback
+to the `36.0.0`. These are basically:
+
+- **Improvement!** &mdash; C#: Fixed the comment XML tag coloring.
+- **Improvement!** &mdash; C#: `get`/`set` colors are fixed.
+- **Improvement!** &mdash; C#: Keywords are fixed.
+- **Improvement!** &mdash; C#: Built-in types are fixed.
+- **Improvement!** &mdash; C#: Storage keywords are fixed.
+- **Improvement!** &mdash; JSX tag colors are better rendered now.
+- **New!** &mdash; Added support for the new `git-blame` colors.
+
 ## 36.0.0
 
-- **Improvement!** &mdash; Much better C# support.
+- **Improvement!** &mdash; Much better C# support. (Thanks to
+  [Zea Akbari](https://github.com/zea17) for pointing it out.)
 - **New!** &mdash; Minimap Colors.
 - **New!** &mdash; Source Code Manager Colors.
 - **New!** &mdash; Source Graph Colors.
