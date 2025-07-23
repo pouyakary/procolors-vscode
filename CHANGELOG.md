@@ -1,5 +1,10 @@
 # What is Changed
 
+## 37.0.0
+
+- **New!** &mdash; Added support for Unity ShaderLab (That one's for Zea 🩷).
+- **Improvement!** &mdash; Much work on Swift.
+
 ## 36.3.0
 
 More fixes on C# support based on [@zea17](https://github.com/zea17)'s feedback

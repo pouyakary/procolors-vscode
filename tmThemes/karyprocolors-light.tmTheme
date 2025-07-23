@@ -1566,7 +1566,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#428226</string>
+                    <string>#3778B7</string>
                 </dict>
             </dict>
             <dict>
@@ -1626,6 +1626,28 @@
                 <dict>
                     <key>foreground</key>
                     <string>#B052A1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Enum Keyword</string>
+                <key>scope</key>
+                <string>storage.type.enum.ts</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#A56416</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Enum Type</string>
+                <key>scope</key>
+                <string>entity.name.type.enum</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#428226</string>
                 </dict>
             </dict>
             <dict>
@@ -1747,6 +1769,17 @@
                 <dict>
                     <key>foreground</key>
                     <string>#B052A1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>JavaScript Rest Keyboard</string>
+                <key>scope</key>
+                <string>keyword.operator.rest</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#428226</string>
                 </dict>
             </dict>
             <dict>
@@ -2115,28 +2148,6 @@
             </dict>
             <dict>
                 <key>name</key>
-                <string>Enum Keyword</string>
-                <key>scope</key>
-                <string>storage.type.enum.ts</string>
-                <key>settings</key>
-                <dict>
-                    <key>foreground</key>
-                    <string>#A56416</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
-                <string>Enum Type</string>
-                <key>scope</key>
-                <string>entity.name.type.enum</string>
-                <key>settings</key>
-                <dict>
-                    <key>foreground</key>
-                    <string>#428226</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
                 <string>Function Keyword</string>
                 <key>scope</key>
                 <string>keyword.function.go</string>
@@ -2452,11 +2463,22 @@
                 <key>scope</key>
                 <string>storage.type.objc, storage.type.built-in.objc, support.type.cocoa.objc,
                     entity.name.type.objc, support.type.cocoa.leopard.objc, meta.argument-type.objc,
-                    storage.type.built-in.primitive.objc</string>
+                    support.type.mac-classic.objc</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
                     <string>#428226</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Objective-C Primitive Types</string>
+                <key>scope</key>
+                <string>storage.type.built-in.primitive.objc</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#A56416</string>
                 </dict>
             </dict>
             <dict>
@@ -2545,6 +2567,17 @@
                 <dict>
                     <key>foreground</key>
                     <string>#65758D</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Objective-C Storage</string>
+                <key>scope</key>
+                <string>storage.type.objc, punctuation.definition.entity.other.inherited-class.objc</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#A56416</string>
                 </dict>
             </dict>
             <dict>
@@ -3441,83 +3474,6 @@
                 <dict>
                     <key>foreground</key>
                     <string>#B052A1</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
-                <string>PEG Attributes</string>
-                <key>scope</key>
-                <string>entity.other.attribute-name.attribute.pegjs</string>
-                <key>settings</key>
-                <dict>
-                    <key>foreground</key>
-                    <string>#3778B7</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
-                <string>PEG Status</string>
-                <key>scope</key>
-                <string>entity.name.function.pegjs</string>
-                <key>settings</key>
-                <dict>
-                    <key>foreground</key>
-                    <string>#C94824</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
-                <string>PEG Keyword</string>
-                <key>scope</key>
-                <string>keyword.operator.pegjs</string>
-                <key>settings</key>
-                <dict>
-                    <key>foreground</key>
-                    <string>#A56416</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
-                <string>PEG Sets</string>
-                <key>scope</key>
-                <string>declaration.keyword.pegjs</string>
-                <key>settings</key>
-                <dict>
-                    <key>foreground</key>
-                    <string>#428226</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
-                <string>PEG Declarations</string>
-                <key>scope</key>
-                <string>declaration.keyword.pegjs</string>
-                <key>settings</key>
-                <dict>
-                    <key>foreground</key>
-                    <string>#3778B7</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
-                <string>Peggy Declaration</string>
-                <key>scope</key>
-                <string>declaration.keyword.peggy</string>
-                <key>settings</key>
-                <dict>
-                    <key>foreground</key>
-                    <string>#3778B7</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>name</key>
-                <string>Peggy Attribute Name</string>
-                <key>scope</key>
-                <string>entity.other.attribute-name.attribute.peggy</string>
-                <key>settings</key>
-                <dict>
-                    <key>foreground</key>
-                    <string>#3778B7</string>
                 </dict>
             </dict>
             <dict>
@@ -4934,6 +4890,94 @@
             </dict>
             <dict>
                 <key>name</key>
+                <string>Zig Keyword Storage</string>
+                <key>scope</key>
+                <string>keyword.storage.zig</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#A56416</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Zig Integer Type</string>
+                <key>scope</key>
+                <string>keyword.type.integer.zig</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#428226</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Zig Types</string>
+                <key>scope</key>
+                <string>keyword.type.zig</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#428226</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>ShaderLab Source</string>
+                <key>scope</key>
+                <string>source.shaderlab, source.shader</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#3778B7</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>ShaderLab Structure</string>
+                <key>scope</key>
+                <string>storage.type.structure.shaderlab</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#C94824</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>ShaderLab Property Name</string>
+                <key>scope</key>
+                <string>support.type.propertyname.shaderlab</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#A56416</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>ShaderLab Decleration</string>
+                <key>scope</key>
+                <string>support.variable.declaration.shaderlab</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#A56416</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>ShaderLab Type</string>
+                <key>scope</key>
+                <string>support.type.basic.shaderlab</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#428226</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
                 <string>V Source</string>
                 <key>scope</key>
                 <string>source.v</string>
@@ -5086,6 +5130,83 @@
                 <dict>
                     <key>foreground</key>
                     <string>#A56416</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>PEG Attributes</string>
+                <key>scope</key>
+                <string>entity.other.attribute-name.attribute.pegjs</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#3778B7</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>PEG Status</string>
+                <key>scope</key>
+                <string>entity.name.function.pegjs</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#C94824</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>PEG Keyword</string>
+                <key>scope</key>
+                <string>keyword.operator.pegjs</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#A56416</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>PEG Sets</string>
+                <key>scope</key>
+                <string>declaration.keyword.pegjs</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#428226</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>PEG Declarations</string>
+                <key>scope</key>
+                <string>declaration.keyword.pegjs</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#3778B7</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Peggy Declaration</string>
+                <key>scope</key>
+                <string>declaration.keyword.peggy</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#3778B7</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Peggy Attribute Name</string>
+                <key>scope</key>
+                <string>entity.other.attribute-name.attribute.peggy</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#3778B7</string>
                 </dict>
             </dict>
             <dict>
@@ -5269,7 +5390,9 @@
                     punctuation.separator.parameters.python, punctuation.separator.period.python,
                     punctuation.separator.property.period.coffee, punctuation.terminator.dart,
                     punctuation.terminator.go, punctuation.terminator.statement,
-                    punctuation.terminator.statement.c</string>
+                    punctuation.terminator.statement.c,
+                    punctuation.definition.arguments.begin.swift,
+                    punctuation.definition.arguments.end.swift</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
